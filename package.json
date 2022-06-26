@@ -1,0 +1,24 @@
+{
+  "name": "vis-board",
+  "version": "0.1.0",
+  "author": {
+    "email": "1006934861@qq.com",
+    "name": "aMiing",
+    "url": "https://github.com/aMiing"
+  },
+  "scripts": {
+    "install:all": "npm run install:client && npm run install:server",
+    "install:client": "cd client && npm install",
+    "install:server": "cd server && npm install",
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm run start",
+    "pre-release": "standard-version --dry-run",
+    "release": "standard-version && git push --follow-tags origin master"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^2.2.2",
+    "standard-version": "^9.5.0"
+  }
+}
