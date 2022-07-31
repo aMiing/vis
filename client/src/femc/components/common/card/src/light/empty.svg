@@ -1,0 +1,122 @@
+<svg id="图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-rule: evenodd;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4, .cls-7, .cls-9 {
+        fill: #edeff2;
+      }
+
+      .cls-4, .cls-9 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-8, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke: url(#未命名的渐变_721);
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        fill: #e8ebf0;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke: url(#未命名的渐变_716);
+      }
+
+      .cls-6 {
+        stroke: url(#未命名的渐变_716-2);
+      }
+
+      .cls-8 {
+        stroke: url(#未命名的渐变_716-3);
+      }
+
+      .cls-9 {
+        stroke: url(#未命名的渐变_721-2);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-15 {
+        clip-path: url(#clip-path-7);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="400" height="400"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_721" data-name="未命名的渐变 721" x1="200.84" y1="249.92" x2="349.43" y2="249.92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bbc8d1"/>
+      <stop offset="1" stop-color="#cad8e3"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_716" data-name="未命名的渐变 716" x1="53.28" y1="132.16" x2="350.42" y2="132.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#adb9c2"/>
+      <stop offset="1" stop-color="#c0cdd6"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_716-2" x1="53.78" y1="249.92" x2="203.33" y2="249.92" xlink:href="#未命名的渐变_716"/>
+    <linearGradient id="未命名的渐变_716-3" x1="30.79" y1="194.92" x2="202.96" y2="194.92" xlink:href="#未命名的渐变_716"/>
+    <linearGradient id="未命名的渐变_721-2" x1="201.33" y1="194.92" x2="372.79" y2="194.92" xlink:href="#未命名的渐变_721"/>
+    <clipPath id="clip-path-2">
+      <path class="cls-1" d="M-740-196.7a126,126,0,0,0-126,126,126,126,0,0,0,126,126,126,126,0,0,0,126-126A126,126,0,0,0-740-196.7Zm0-27a153,153,0,0,1,153,153,153,153,0,0,1-153,153,153,153,0,0,1-153-153A153,153,0,0,1-740-223.7Z"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path class="cls-2" d="M-646.3,26.7a13.5,13.5,0,0,1,19.1-1l53.5,48.1a13.7,13.7,0,0,1,1,19.1,13.6,13.6,0,0,1-19.1,1l-53.5-48.2A13.5,13.5,0,0,1-646.3,26.7Z"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path class="cls-1" d="M-722-133.7c-10.8,0-19.3,8.3-19.3,18.2s8.5,18.1,19.3,18.1,19.3-8.3,19.3-18.1S-711.2-133.7-722-133.7Zm0-27c25.6,0,46.3,20.2,46.3,45.2S-696.4-70.4-722-70.4s-46.3-20.2-46.3-45.1S-747.6-160.7-722-160.7Z"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path class="cls-1" d="M-722-91.4c47.1,0,85.5,37.4,85.5,83.7A13.6,13.6,0,0,1-650,5.8,13.5,13.5,0,0,1-663.5-7.7c0-31.3-26.1-56.7-58.5-56.7S-780.5-39-780.5-7.7A13.5,13.5,0,0,1-794,5.8,13.6,13.6,0,0,1-807.5-7.7C-807.5-54-769.1-91.4-722-91.4Z"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path class="cls-1" d="M-776-165.2a13.5,13.5,0,0,1,13.5,13.5,13.4,13.4,0,0,1-12.2,13.4H-776c-9.7,0-18,8.9-18,20.4s7.6,19.7,16.8,20.4h1.2a13.5,13.5,0,0,1,13.5,13.5A13.4,13.4,0,0,1-776-70.4c-25.1,0-45-21.4-45-47.4S-801.1-165.2-776-165.2Z"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path class="cls-1" d="M-776-97.4a13.5,13.5,0,0,1,13.5,13.5A13.4,13.4,0,0,1-776-70.4c-22.1,0-40.5,19.8-40.5,44.7A13.5,13.5,0,0,1-830-12.2a13.6,13.6,0,0,1-13.5-13.5C-843.5-65.1-813.5-97.4-776-97.4Z"/>
+    </clipPath>
+  </defs>
+  <title>缺省页插画</title>
+  <g class="cls-3">
+    <g>
+      <polygon class="cls-4" points="348.4 132.2 347.9 282.8 201.8 367.7 202.3 217.1 348.4 132.2"/>
+      <polygon class="cls-5" points="348.4 132.2 202.3 217.1 55.3 132.2 201.4 47.3 348.4 132.2"/>
+      <polygon class="cls-6" points="202.3 217.1 201.8 367.7 54.8 282.8 55.3 132.2 202.3 217.1"/>
+      <polygon class="cls-7" points="201 49.1 201.6 215.1 59 132.2 201 49.1"/>
+      <polygon class="cls-8" points="178.5 257.7 32.1 172.8 55.3 132.2 201.6 217.1 178.5 257.7"/>
+      <polygon class="cls-9" points="225.5 257.7 371.8 172.8 348.7 132.2 202.3 217.1 225.5 257.7"/>
+    </g>
+  </g>
+</svg>

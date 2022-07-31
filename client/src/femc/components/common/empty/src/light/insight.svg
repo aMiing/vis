@@ -1,0 +1,113 @@
+<svg id="图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-rule: evenodd;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-9 {
+        fill: url(#未命名的渐变_742);
+      }
+
+      .cls-10, .cls-11 {
+        fill: #edeff2;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-10 {
+        stroke: url(#未命名的渐变_716);
+      }
+
+      .cls-11 {
+        stroke: url(#未命名的渐变_716-2);
+      }
+
+      .cls-12 {
+        stroke: url(#未命名的渐变_716-3);
+      }
+
+      .cls-13 {
+        fill: #e8ebf0;
+        stroke: url(#未命名的渐变_716-4);
+      }
+
+      .cls-14 {
+        fill: url(#未命名的渐变_742-2);
+        stroke: url(#未命名的渐变_716-5);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M-259.1-196.7a126,126,0,0,0-126,126,126,126,0,0,0,126,126,126,126,0,0,0,125.9-126A126,126,0,0,0-259.1-196.7Zm0-27c84.4,0,152.9,68.5,152.9,153s-68.5,153-152.9,153a153,153,0,0,1-153-153A153,153,0,0,1-259.1-223.7Z"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path class="cls-2" d="M-165.4,26.7a13.4,13.4,0,0,1,19-1l53.5,48.1a13.5,13.5,0,0,1,1,19.1,13.6,13.6,0,0,1-19.1,1l-53.4-48.2A13.4,13.4,0,0,1-165.4,26.7Z"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path class="cls-1" d="M-241.1-133.7c-10.8,0-19.3,8.3-19.3,18.2s8.5,18.1,19.3,18.1,19.2-8.3,19.2-18.1S-230.3-133.7-241.1-133.7Zm0-27c25.5,0,46.2,20.2,46.2,45.2s-20.7,45.1-46.2,45.1-46.3-20.2-46.3-45.1S-266.7-160.7-241.1-160.7Z"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path class="cls-1" d="M-241.1-91.4c47.1,0,85.4,37.4,85.4,83.7A13.5,13.5,0,0,1-169.2,5.8,13.6,13.6,0,0,1-182.7-7.7c0-31.3-26.1-56.7-58.4-56.7S-299.6-39-299.6-7.7A13.6,13.6,0,0,1-313.1,5.8,13.5,13.5,0,0,1-326.6-7.7C-326.6-54-288.3-91.4-241.1-91.4Z"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path class="cls-1" d="M-295.1-165.2a13.6,13.6,0,0,1,13.5,13.5,13.5,13.5,0,0,1-12.2,13.4h-1.3c-9.7,0-18,8.9-18,20.4s7.6,19.7,16.7,20.4h1.3a13.6,13.6,0,0,1,13.5,13.5,13.5,13.5,0,0,1-13.5,13.5c-25.1,0-45-21.4-45-47.4S-320.2-165.2-295.1-165.2Z"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path class="cls-1" d="M-295.1-97.4a13.6,13.6,0,0,1,13.5,13.5,13.5,13.5,0,0,1-13.5,13.5c-22.2,0-40.5,19.8-40.5,44.7a13.6,13.6,0,0,1-13.5,13.5,13.5,13.5,0,0,1-13.5-13.5C-362.6-65.1-332.6-97.4-295.1-97.4Z"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_742" data-name="未命名的渐变 742" x1="111.4" y1="152.5" x2="151.97" y2="180.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e8ebf0"/>
+      <stop offset="1" stop-color="#e8ebf0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_716" data-name="未命名的渐变 716" x1="257.24" y1="301.94" x2="344.45" y2="301.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#adb9c2"/>
+      <stop offset="1" stop-color="#c0cdd6"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_716-2" x1="62.13" y1="178.19" x2="308.68" y2="178.19" xlink:href="#未命名的渐变_716"/>
+    <linearGradient id="未命名的渐变_716-3" x1="110.08" y1="169.84" x2="162.92" y2="169.84" xlink:href="#未命名的渐变_716"/>
+    <linearGradient id="未命名的渐变_716-4" x1="170.35" y1="157.72" x2="243.29" y2="157.72" xlink:href="#未命名的渐变_716"/>
+    <linearGradient id="未命名的渐变_742-2" x1="206.82" y1="192.76" x2="206.82" y2="244.6" xlink:href="#未命名的渐变_742"/>
+    <linearGradient id="未命名的渐变_716-5" x1="153.98" y1="218.61" x2="259.66" y2="218.61" xlink:href="#未命名的渐变_716"/>
+  </defs>
+  <title>缺省页插画</title>
+  <g>
+    <path class="cls-9" d="M162.9,108.9a35.5,35.5,0,0,0,0,71,51.8,51.8,0,0,0-51.8,51.8h51.8Z"/>
+    <path class="cls-10" d="M340,324.1l-63.9-63.9A129.2,129.2,0,0,1,258.8,276l64.6,64.7A11.7,11.7,0,0,0,340,324.1Z"/>
+    <circle class="cls-11" cx="185.4" cy="178.2" r="122.3"/>
+    <path class="cls-12" d="M111.1,231.7a51.8,51.8,0,0,1,51.8-51.8,35.5,35.5,0,0,1,0-71"/>
+    <circle class="cls-13" cx="206.8" cy="157.7" r="35.5"/>
+    <path class="cls-14" d="M155,245a51.9,51.9,0,0,1,103.7,0"/>
+    <rect class="cls-1" width="400" height="400"/>
+  </g>
+</svg>

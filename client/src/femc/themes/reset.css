@@ -1,0 +1,91 @@
+body,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+form {
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+body {
+  font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'PingFang SC',
+    'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif;
+  font-size: var(--el-font-size-base);
+  color: var(--grey-12);
+  font-variant: tabular-nums;
+}
+img {
+  border: 0;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+.font-num-family {
+  font-variant-numeric: tabular-nums;
+}
+[class^='el-']::-ms-clear,
+[class*='el-']::-ms-clear,
+[class^='el-'] input::-ms-clear,
+[class*='el-'] input::-ms-clear,
+[class^='el-'] input::-ms-reveal,
+[class*='el-'] input::-ms-reveal {
+  display: none;
+}
+[class^='el-']:focus,
+[class*='el-']:focus,
+[class^='el-'] *:focus,
+[class*='el-'] *:focus {
+  outline: none;
+}
+.clearfix::before {
+  display: table;
+  content: '';
+}
+.clearfix::after {
+  display: table;
+  clear: both;
+  content: '';
+}
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--transparent-5);
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--grey-10);
+}
+::-webkit-scrollbar-corner {
+  background: var(--transparent-5);
+}
+.el-menu {
+  border-right: none;
+}
+.el-menu-item .gt-menu-icon,
+.el-submenu__title .gt-menu-icon,
+.el-menu-item [class~='iconfont'],
+.el-submenu__title [class~='iconfont'],
+.el-menu-item [class^='el-icon-'],
+.el-submenu__title [class^='el-icon-'] {
+  color: inherit;
+  font-size: var(--el-font-size-extra-large);
+  margin-right: 8px;
+}

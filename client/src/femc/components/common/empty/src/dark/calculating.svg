@@ -1,0 +1,1356 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#未命名的渐变_152);
+      }
+
+      .cls-3 {
+        fill: url(#未命名的渐变_30);
+      }
+
+      .cls-4 {
+        clip-rule: evenodd;
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-8 {
+        fill: url(#未命名的渐变_13);
+      }
+
+      .cls-9 {
+        fill: url(#未命名的渐变_110);
+      }
+
+      .cls-10 {
+        opacity: 0.3;
+      }
+
+      .cls-11 {
+        fill: #162742;
+      }
+
+      .cls-12 {
+        opacity: 0.4;
+      }
+
+      .cls-13 {
+        fill: url(#未命名的渐变_86);
+      }
+
+      .cls-14 {
+        fill: url(#未命名的渐变_93);
+      }
+
+      .cls-15 {
+        fill: url(#未命名的渐变_86-2);
+      }
+
+      .cls-16 {
+        fill: url(#未命名的渐变_94);
+      }
+
+      .cls-17 {
+        fill: url(#未命名的渐变_92);
+      }
+
+      .cls-18 {
+        fill: url(#未命名的渐变_88);
+      }
+
+      .cls-19 {
+        fill: url(#未命名的渐变_86-3);
+      }
+
+      .cls-20 {
+        fill: url(#未命名的渐变_126);
+      }
+
+      .cls-21 {
+        fill: url(#未命名的渐变_163);
+      }
+
+      .cls-22 {
+        fill: url(#未命名的渐变_163-2);
+      }
+
+      .cls-23 {
+        fill: url(#未命名的渐变_121);
+      }
+
+      .cls-24 {
+        fill: url(#未命名的渐变_119);
+      }
+
+      .cls-25 {
+        fill: url(#未命名的渐变_86-4);
+      }
+
+      .cls-26 {
+        fill: url(#未命名的渐变_126-2);
+      }
+
+      .cls-27, .cls-35, .cls-36, .cls-67, .cls-68 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-27, .cls-35, .cls-36 {
+        stroke-width: 2px;
+      }
+
+      .cls-27, .cls-31 {
+        fill: url(#未命名的渐变_91);
+      }
+
+      .cls-27 {
+        stroke: url(#未命名的渐变_26);
+      }
+
+      .cls-28 {
+        fill: url(#未命名的渐变_163-3);
+      }
+
+      .cls-29 {
+        fill: url(#未命名的渐变_163-4);
+      }
+
+      .cls-30 {
+        fill: url(#未命名的渐变_86-5);
+      }
+
+      .cls-32 {
+        fill: url(#未命名的渐变_100);
+      }
+
+      .cls-33 {
+        fill: url(#未命名的渐变_103);
+      }
+
+      .cls-34 {
+        fill: url(#未命名的渐变_163-5);
+      }
+
+      .cls-35 {
+        fill: url(#未命名的渐变_66);
+        stroke: url(#未命名的渐变_39);
+      }
+
+      .cls-36 {
+        fill: url(#未命名的渐变_48);
+        stroke: url(#未命名的渐变_39__副本);
+      }
+
+      .cls-37 {
+        fill: url(#未命名的渐变_156);
+      }
+
+      .cls-38 {
+        fill: url(#未命名的渐变_156-2);
+      }
+
+      .cls-39 {
+        fill: url(#未命名的渐变_156-3);
+      }
+
+      .cls-40 {
+        fill: url(#未命名的渐变_79);
+      }
+
+      .cls-41 {
+        fill: url(#未命名的渐变_156-4);
+      }
+
+      .cls-42 {
+        fill: url(#未命名的渐变_156-5);
+      }
+
+      .cls-43 {
+        fill: url(#未命名的渐变_52);
+      }
+
+      .cls-44 {
+        fill: url(#未命名的渐变_156-6);
+      }
+
+      .cls-45 {
+        fill: url(#未命名的渐变_156-7);
+      }
+
+      .cls-46 {
+        fill: url(#未命名的渐变_156-8);
+      }
+
+      .cls-47 {
+        fill: url(#未命名的渐变_156-9);
+      }
+
+      .cls-48 {
+        fill: url(#未命名的渐变_79-2);
+      }
+
+      .cls-49 {
+        fill: url(#未命名的渐变_79-3);
+      }
+
+      .cls-50 {
+        fill: url(#未命名的渐变_79-4);
+      }
+
+      .cls-51 {
+        fill: url(#未命名的渐变_79-5);
+      }
+
+      .cls-52 {
+        fill: url(#未命名的渐变_36);
+      }
+
+      .cls-53 {
+        fill: url(#未命名的渐变_36-2);
+      }
+
+      .cls-54 {
+        fill: url(#未命名的渐变_36-3);
+      }
+
+      .cls-55 {
+        fill: url(#未命名的渐变_120);
+      }
+
+      .cls-56 {
+        fill: url(#未命名的渐变_36-4);
+      }
+
+      .cls-57 {
+        fill: url(#未命名的渐变_36-5);
+      }
+
+      .cls-58 {
+        fill: url(#未命名的渐变_36-6);
+      }
+
+      .cls-59 {
+        fill: url(#未命名的渐变_36-7);
+      }
+
+      .cls-60 {
+        fill: url(#未命名的渐变_36-8);
+      }
+
+      .cls-61 {
+        fill: url(#未命名的渐变_36-9);
+      }
+
+      .cls-62 {
+        fill: url(#未命名的渐变_36-10);
+      }
+
+      .cls-63 {
+        fill: url(#未命名的渐变_115);
+      }
+
+      .cls-64 {
+        fill: url(#未命名的渐变_111);
+      }
+
+      .cls-65 {
+        fill: url(#未命名的渐变_112);
+      }
+
+      .cls-66 {
+        fill: url(#未命名的渐变_124);
+      }
+
+      .cls-67 {
+        fill: url(#未命名的渐变_86-6);
+        stroke: url(#未命名的渐变_39__副本-2);
+      }
+
+      .cls-68 {
+        fill: url(#未命名的渐变_86-7);
+        stroke: url(#未命名的渐变_39__副本-3);
+      }
+
+      .cls-69 {
+        fill: url(#未命名的渐变_118);
+      }
+
+      .cls-70 {
+        fill: url(#未命名的渐变_156-10);
+      }
+
+      .cls-71 {
+        fill: url(#未命名的渐变_10);
+      }
+
+      .cls-72 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-73 {
+        fill: url(#未命名的渐变_438);
+      }
+
+      .cls-74 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-75 {
+        fill: url(#未命名的渐变_452);
+      }
+
+      .cls-76 {
+        fill: url(#未命名的渐变_10-2);
+      }
+
+      .cls-77 {
+        fill: url(#未命名的渐变_438-2);
+      }
+
+      .cls-78 {
+        fill: url(#未命名的渐变_438-3);
+      }
+
+      .cls-79 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-80 {
+        fill: url(#未命名的渐变_452-2);
+      }
+
+      .cls-81 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-82 {
+        fill: url(#未命名的渐变_10-3);
+      }
+
+      .cls-83 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-84 {
+        fill: url(#未命名的渐变_438-4);
+      }
+
+      .cls-85 {
+        clip-path: url(#clip-path-7);
+      }
+
+      .cls-86 {
+        fill: url(#未命名的渐变_10-4);
+      }
+
+      .cls-87 {
+        clip-path: url(#clip-path-8);
+      }
+
+      .cls-88 {
+        fill: url(#未命名的渐变_28);
+      }
+
+      .cls-89 {
+        fill: url(#未命名的渐变_7);
+      }
+
+      .cls-90 {
+        fill: url(#未命名的渐变_10-5);
+      }
+
+      .cls-91 {
+        fill: url(#未命名的渐变_7-2);
+      }
+
+      .cls-92 {
+        clip-path: url(#clip-path-9);
+      }
+
+      .cls-93 {
+        fill: url(#未命名的渐变_139);
+      }
+
+      .cls-94 {
+        clip-path: url(#clip-path-10);
+      }
+
+      .cls-95 {
+        fill: url(#未命名的渐变_452-3);
+      }
+
+      .cls-96 {
+        fill: url(#未命名的渐变_51);
+      }
+
+      .cls-97 {
+        clip-path: url(#clip-path-11);
+      }
+
+      .cls-98 {
+        fill: url(#未命名的渐变_29);
+      }
+
+      .cls-99 {
+        fill: url(#未命名的渐变_10-6);
+      }
+
+      .cls-100 {
+        clip-path: url(#clip-path-12);
+      }
+
+      .cls-101 {
+        fill: url(#未命名的渐变_152-3);
+      }
+
+      .cls-102 {
+        clip-path: url(#clip-path-13);
+      }
+
+      .cls-103 {
+        fill: url(#未命名的渐变_10-7);
+      }
+
+      .cls-104 {
+        clip-path: url(#clip-path-14);
+      }
+
+      .cls-105 {
+        fill: url(#未命名的渐变_438-5);
+      }
+
+      .cls-106 {
+        fill: url(#未命名的渐变_10-8);
+      }
+
+      .cls-107 {
+        clip-path: url(#clip-path-15);
+      }
+
+      .cls-108 {
+        fill: url(#未命名的渐变_438-6);
+      }
+
+      .cls-109 {
+        clip-path: url(#clip-path-16);
+      }
+
+      .cls-110 {
+        fill: url(#未命名的渐变_10-9);
+      }
+
+      .cls-111 {
+        clip-path: url(#clip-path-17);
+      }
+
+      .cls-112 {
+        fill: url(#未命名的渐变_30-3);
+      }
+
+      .cls-113 {
+        clip-path: url(#clip-path-18);
+      }
+
+      .cls-114 {
+        fill: url(#未命名的渐变_10-10);
+      }
+
+      .cls-115 {
+        clip-path: url(#clip-path-19);
+      }
+
+      .cls-116 {
+        fill: url(#未命名的渐变_20);
+      }
+
+      .cls-117 {
+        opacity: 0.22;
+      }
+
+      .cls-118 {
+        clip-path: url(#clip-path-20);
+      }
+
+      .cls-119 {
+        fill: #fdfeff;
+      }
+
+      .cls-120 {
+        clip-path: url(#clip-path-21);
+      }
+
+      .cls-121 {
+        fill: url(#未命名的渐变_452-4);
+      }
+
+      .cls-122 {
+        clip-path: url(#clip-path-22);
+      }
+
+      .cls-123 {
+        fill: url(#未命名的渐变_438-7);
+      }
+
+      .cls-124 {
+        fill: url(#未命名的渐变_91-3);
+      }
+
+      .cls-125 {
+        fill: url(#未命名的渐变_68);
+      }
+
+      .cls-126 {
+        fill: url(#未命名的渐变_86-8);
+      }
+
+      .cls-127 {
+        fill: url(#未命名的渐变_63);
+      }
+
+      .cls-128 {
+        fill: url(#未命名的渐变_97);
+      }
+
+      .cls-129 {
+        fill: url(#未命名的渐变_56);
+      }
+
+      .cls-130 {
+        fill: url(#未命名的渐变_86-9);
+      }
+
+      .cls-131 {
+        fill: url(#未命名的渐变_126-3);
+      }
+
+      .cls-132, .cls-133, .cls-134, .cls-135, .cls-136, .cls-137, .cls-138, .cls-139, .cls-140, .cls-141 {
+        opacity: 0.2;
+      }
+
+      .cls-132 {
+        fill: url(#未命名的渐变_79-6);
+      }
+
+      .cls-133 {
+        fill: url(#未命名的渐变_79-7);
+      }
+
+      .cls-134 {
+        fill: url(#未命名的渐变_79-8);
+      }
+
+      .cls-135 {
+        fill: url(#未命名的渐变_79-9);
+      }
+
+      .cls-136 {
+        fill: url(#未命名的渐变_79-10);
+      }
+
+      .cls-137 {
+        fill: url(#未命名的渐变_79-11);
+      }
+
+      .cls-138 {
+        fill: url(#未命名的渐变_79-12);
+      }
+
+      .cls-139 {
+        fill: url(#未命名的渐变_79-13);
+      }
+
+      .cls-140 {
+        fill: url(#未命名的渐变_79-14);
+      }
+
+      .cls-141 {
+        fill: url(#未命名的渐变_79-15);
+      }
+
+      .cls-142 {
+        fill: url(#未命名的渐变_81);
+      }
+
+      .cls-143 {
+        fill: url(#未命名的渐变_8);
+      }
+
+      .cls-144 {
+        fill: url(#未命名的渐变_79-16);
+      }
+
+      .cls-145 {
+        fill: url(#未命名的渐变_79-17);
+      }
+
+      .cls-146 {
+        fill: url(#未命名的渐变_79-18);
+      }
+
+      .cls-147 {
+        fill: url(#未命名的渐变_79-19);
+      }
+
+      .cls-148 {
+        fill: url(#未命名的渐变_79-20);
+      }
+
+      .cls-149 {
+        fill: url(#未命名的渐变_79-21);
+      }
+
+      .cls-150 {
+        fill: url(#未命名的渐变_79-22);
+      }
+
+      .cls-151 {
+        fill: url(#未命名的渐变_79-23);
+      }
+
+      .cls-152 {
+        fill: url(#未命名的渐变_79-24);
+      }
+
+      .cls-153 {
+        fill: url(#未命名的渐变_79-25);
+      }
+
+      .cls-154 {
+        clip-path: url(#clip-path-23);
+      }
+
+      .cls-155 {
+        clip-path: url(#clip-path-24);
+      }
+
+      .cls-156 {
+        clip-path: url(#clip-path-25);
+      }
+
+      .cls-157 {
+        clip-path: url(#clip-path-26);
+      }
+
+      .cls-158 {
+        clip-path: url(#clip-path-27);
+      }
+
+      .cls-159 {
+        clip-path: url(#clip-path-28);
+      }
+    </style>
+    <linearGradient id="未命名的渐变_152" data-name="未命名的渐变 152" x1="274.23" y1="197.8" x2="290.07" y2="197.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f5fa8"/>
+      <stop offset="0.04" stop-color="#1164ac"/>
+      <stop offset="0.48" stop-color="#2292d2"/>
+      <stop offset="0.81" stop-color="#2caeea"/>
+      <stop offset="1" stop-color="#30b9f3"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_30" data-name="未命名的渐变 30" x1="274.38" y1="292.55" x2="304.23" y2="292.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#86e3f8"/>
+      <stop offset="0.28" stop-color="#55b7dd"/>
+      <stop offset="0.58" stop-color="#278fc3"/>
+      <stop offset="0.81" stop-color="#0b75b3"/>
+      <stop offset="0.94" stop-color="#006cad"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="400" height="400"/>
+    </clipPath>
+    <radialGradient id="未命名的渐变_13" data-name="未命名的渐变 13" cx="-3827.1" cy="836.44" r="64.57" gradientTransform="matrix(0.02, 0.34, -0.24, 0.01, 544.45, 1652.21)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0e1a31"/>
+      <stop offset="0.32" stop-color="#101d35" stop-opacity="0.76"/>
+      <stop offset="0.9" stop-color="#162640" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#172842" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="未命名的渐变_110" data-name="未命名的渐变 110" x1="200" y1="290.91" x2="200" y2="336.84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5375b0"/>
+      <stop offset="0.12" stop-color="#4c6aa1" stop-opacity="0.85"/>
+      <stop offset="0.43" stop-color="#3b517d" stop-opacity="0.49"/>
+      <stop offset="0.69" stop-color="#2f3f63" stop-opacity="0.22"/>
+      <stop offset="0.89" stop-color="#283353" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#252f4d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_86" data-name="未命名的渐变 86" x1="9834.94" y1="121.15" x2="9844.26" y2="121.15" gradientTransform="matrix(-1, 0, 0, 1, 10145.17, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.05" stop-color="#1c243b"/>
+      <stop offset="1" stop-color="#2a3659"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_93" data-name="未命名的渐变 93" x1="9830.75" y1="122.05" x2="9836.51" y2="110.38" gradientTransform="matrix(-1, 0, 0, 1, 10145.17, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.35" stop-color="#161c2f"/>
+      <stop offset="0.68" stop-color="#1c243a"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_86-2" x1="9834.74" y1="76.04" x2="9844.07" y2="76.04" xlink:href="#未命名的渐变_86"/>
+    <linearGradient id="未命名的渐变_94" data-name="未命名的渐变 94" x1="9830.76" y1="77.64" x2="9836.22" y2="65.05" gradientTransform="matrix(-1, 0, 0, 1, 10145.17, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.34" stop-color="#161d2f"/>
+      <stop offset="0.69" stop-color="#1c243c"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_92" data-name="未命名的渐变 92" x1="9856.19" y1="79.33" x2="9815.3" y2="104.62" gradientTransform="matrix(-1, 0, 0, 1, 10145.17, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.37" stop-color="#161c2e"/>
+      <stop offset="0.68" stop-color="#1b2239"/>
+      <stop offset="0.96" stop-color="#242d4a"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_88" data-name="未命名的渐变 88" x1="9816.68" y1="107.53" x2="9812.02" y2="110.95" gradientTransform="matrix(-1, 0, 0, 1, 10145.17, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.48" stop-color="#1b2339"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_86-3" x1="9818.43" y1="98.59" x2="9860.54" y2="98.59" xlink:href="#未命名的渐变_86"/>
+    <linearGradient id="未命名的渐变_126" data-name="未命名的渐变 126" x1="9810.54" y1="96.01" x2="9861.6" y2="96.01" gradientTransform="matrix(-1, 0, 0, 1, 10145.17, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#515d7b"/>
+      <stop offset="0.19" stop-color="#5d6a88"/>
+      <stop offset="0.71" stop-color="#7b88a7"/>
+      <stop offset="1" stop-color="#8693b3"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_163" data-name="未命名的渐变 163" x1="9826.83" y1="73.39" x2="9845.12" y2="73.39" gradientTransform="matrix(-1, 0, 0, 1, 10145.17, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8693b3"/>
+      <stop offset="0.19" stop-color="#7a86a6"/>
+      <stop offset="0.71" stop-color="#5c6887"/>
+      <stop offset="1" stop-color="#515d7b"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_163-2" x1="9827.02" y1="118.5" x2="9845.31" y2="118.5" xlink:href="#未命名的渐变_163"/>
+    <linearGradient id="未命名的渐变_121" data-name="未命名的渐变 121" x1="72.92" y1="212.89" x2="42.53" y2="231.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.34" stop-color="#161d2f"/>
+      <stop offset="0.69" stop-color="#1c243c"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_119" data-name="未命名的渐变 119" x1="43.44" y1="234.31" x2="39.52" y2="236.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_86-4" x1="44.67" y1="227.23" x2="75.88" y2="227.23" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_86"/>
+    <linearGradient id="未命名的渐变_126-2" x1="38.83" y1="225.32" x2="76.66" y2="225.32" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_126"/>
+    <linearGradient id="未命名的渐变_91" data-name="未命名的渐变 91" x1="96.55" y1="44.7" x2="112.31" y2="44.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.59" stop-color="#202842"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_26" data-name="未命名的渐变 26" x1="95.55" y1="44.7" x2="113.31" y2="44.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8490b0"/>
+      <stop offset="0.35" stop-color="#727e9e"/>
+      <stop offset="0.81" stop-color="#5f6b8a"/>
+      <stop offset="1" stop-color="#54607f"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_163-3" x1="81.37" y1="49.84" x2="88.56" y2="49.84" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_163"/>
+    <linearGradient id="未命名的渐变_163-4" x1="81.51" y1="75.21" x2="97.73" y2="75.21" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_163"/>
+    <linearGradient id="未命名的渐变_86-5" x1="86.68" y1="62.96" x2="115.38" y2="62.96" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_86"/>
+    <linearGradient id="未命名的渐变_100" data-name="未命名的渐变 100" x1="87.52" y1="49.28" x2="82.09" y2="50.47" xlink:href="#未命名的渐变_119"/>
+    <linearGradient id="未命名的渐变_103" data-name="未命名的渐变 103" x1="95.13" y1="64.62" x2="83.78" y2="86.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.4" stop-color="#192035"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_163-5" x1="80.48" y1="61.22" x2="116.25" y2="61.22" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_163"/>
+    <linearGradient id="未命名的渐变_66" data-name="未命名的渐变 66" x1="64.09" y1="209.98" x2="194.32" y2="209.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2b3a5e"/>
+      <stop offset="0.31" stop-color="#293658"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_39" data-name="未命名的渐变 39" x1="83.41" y1="209.98" x2="215.64" y2="209.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#66e5ff"/>
+      <stop offset="0.22" stop-color="#57d9fc"/>
+      <stop offset="0.72" stop-color="#3bc2f5"/>
+      <stop offset="1" stop-color="#30b9f3"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_48" data-name="未命名的渐变 48" x1="54.35" y1="205.01" x2="196.7" y2="205.01" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c243b"/>
+      <stop offset="1" stop-color="#2a3659"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_39__副本" data-name="未命名的渐变 39 _副本" x1="69.49" y1="205.01" x2="213.84" y2="205.01" xlink:href="#未命名的渐变_39"/>
+    <linearGradient id="未命名的渐变_156" data-name="未命名的渐变 156" x1="92.61" y1="226.31" x2="112.17" y2="226.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#263f68"/>
+      <stop offset="0.32" stop-color="#32577e"/>
+      <stop offset="0.75" stop-color="#41759a"/>
+      <stop offset="1" stop-color="#4781a5"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_156-2" x1="92.2" y1="258.61" x2="111.75" y2="258.61" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_156-3" x1="92.59" y1="290.91" x2="112.14" y2="290.91" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_79" data-name="未命名的渐变 79" x1="93.59" y1="323.21" x2="113.15" y2="323.21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#30b9f3"/>
+      <stop offset="0.22" stop-color="#3fc5f6"/>
+      <stop offset="0.72" stop-color="#5bdcfd"/>
+      <stop offset="1" stop-color="#66e5ff"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_156-4" x1="122.58" y1="208.84" x2="142.13" y2="208.84" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_156-5" x1="122.52" y1="241.14" x2="142.07" y2="241.14" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_52" data-name="未命名的渐变 52" x1="123.03" y1="273.44" x2="142.58" y2="273.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#263f68"/>
+      <stop offset="0.27" stop-color="#30537a"/>
+      <stop offset="0.74" stop-color="#417499"/>
+      <stop offset="1" stop-color="#4781a5"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_156-6" x1="122.93" y1="305.74" x2="142.49" y2="305.74" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_156-7" x1="152.93" y1="191.37" x2="172.49" y2="191.37" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_156-8" x1="152.55" y1="223.67" x2="172.1" y2="223.67" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_156-9" x1="152.29" y1="255.97" x2="171.84" y2="255.97" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_79-2" x1="153.26" y1="288.28" x2="172.82" y2="288.28" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-3" x1="189.27" y1="173.9" x2="208.82" y2="173.9" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-4" x1="189.27" y1="206.2" x2="208.82" y2="206.2" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-5" x1="189.27" y1="254.66" x2="208.82" y2="254.66" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_36" data-name="未命名的渐变 36" x1="97.97" y1="229.12" x2="109.28" y2="209.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#263f68"/>
+      <stop offset="0.2" stop-color="#27416a"/>
+      <stop offset="0.27" stop-color="#2b4870"/>
+      <stop offset="0.32" stop-color="#31537b"/>
+      <stop offset="0.33" stop-color="#32567d"/>
+      <stop offset="0.56" stop-color="#376187"/>
+      <stop offset="0.97" stop-color="#467ea3"/>
+      <stop offset="1" stop-color="#4781a5"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_36-2" x1="98.71" y1="261.55" x2="109.15" y2="241.65" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_36-3" x1="97.84" y1="293.69" x2="109.38" y2="274.41" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_120" data-name="未命名的渐变 120" x1="111.17" y1="304.36" x2="92.12" y2="335.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#30b9f3"/>
+      <stop offset="0.3" stop-color="#2fb7f1"/>
+      <stop offset="0.4" stop-color="#2bb0eb"/>
+      <stop offset="0.47" stop-color="#23a5e1"/>
+      <stop offset="0.47" stop-color="#23a4e0"/>
+      <stop offset="0.51" stop-color="#1791cf"/>
+      <stop offset="0.56" stop-color="#0d80c0"/>
+      <stop offset="0.63" stop-color="#0575b5"/>
+      <stop offset="0.72" stop-color="#016eaf"/>
+      <stop offset="0.97" stop-color="#006cad"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_36-4" x1="128.44" y1="211.47" x2="139.75" y2="192.05" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_36-5" x1="129.02" y1="244.32" x2="139.39" y2="224.39" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_36-6" x1="128.7" y1="276.5" x2="139.48" y2="256.79" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_36-7" x1="129.24" y1="308.88" x2="139.39" y2="288.83" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_36-8" x1="159.16" y1="193.97" x2="170.12" y2="174.35" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_36-9" x1="159.39" y1="226.61" x2="169.9" y2="206.75" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_36-10" x1="158.51" y1="258.91" x2="170.37" y2="239.83" xlink:href="#未命名的渐变_36"/>
+    <linearGradient id="未命名的渐变_115" data-name="未命名的渐变 115" x1="171.36" y1="268.86" x2="153.75" y2="301.09" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#30b9f3"/>
+      <stop offset="0.28" stop-color="#2fb7f1"/>
+      <stop offset="0.39" stop-color="#2bb0eb"/>
+      <stop offset="0.46" stop-color="#23a5e1"/>
+      <stop offset="0.46" stop-color="#23a4e0"/>
+      <stop offset="0.5" stop-color="#1791cf"/>
+      <stop offset="0.55" stop-color="#0d80c0"/>
+      <stop offset="0.62" stop-color="#0575b5"/>
+      <stop offset="0.71" stop-color="#016eaf"/>
+      <stop offset="0.97" stop-color="#006cad"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_111" data-name="未命名的渐变 111" x1="201.71" y1="155.6" x2="183.56" y2="185.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#30b9f3"/>
+      <stop offset="0.29" stop-color="#2fb7f1"/>
+      <stop offset="0.4" stop-color="#2bb0eb"/>
+      <stop offset="0.47" stop-color="#23a5e1"/>
+      <stop offset="0.47" stop-color="#23a4e0"/>
+      <stop offset="0.51" stop-color="#1791cf"/>
+      <stop offset="0.56" stop-color="#0d80c0"/>
+      <stop offset="0.63" stop-color="#0575b5"/>
+      <stop offset="0.72" stop-color="#016eaf"/>
+      <stop offset="0.97" stop-color="#006cad"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_112" data-name="未命名的渐变 112" x1="201.9" y1="187.2" x2="183.84" y2="217.56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#30b9f3"/>
+      <stop offset="0.29" stop-color="#2fb7f1"/>
+      <stop offset="0.39" stop-color="#2bb0eb"/>
+      <stop offset="0.47" stop-color="#23a5e1"/>
+      <stop offset="0.47" stop-color="#23a4e0"/>
+      <stop offset="0.51" stop-color="#1791cf"/>
+      <stop offset="0.56" stop-color="#0d80c0"/>
+      <stop offset="0.63" stop-color="#0575b5"/>
+      <stop offset="0.72" stop-color="#016eaf"/>
+      <stop offset="0.97" stop-color="#006cad"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_124" data-name="未命名的渐变 124" x1="203.88" y1="223.92" x2="178.97" y2="278.95" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#30b9f3"/>
+      <stop offset="0.14" stop-color="#2fb7f1"/>
+      <stop offset="0.19" stop-color="#2bb0eb"/>
+      <stop offset="0.22" stop-color="#23a5e1"/>
+      <stop offset="0.22" stop-color="#23a4e0"/>
+      <stop offset="0.28" stop-color="#1791cf"/>
+      <stop offset="0.36" stop-color="#0d80c0"/>
+      <stop offset="0.46" stop-color="#0575b5"/>
+      <stop offset="0.59" stop-color="#016eaf"/>
+      <stop offset="0.97" stop-color="#006cad"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_86-6" x1="93.68" y1="143.97" x2="204.95" y2="143.97" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_86"/>
+    <linearGradient id="未命名的渐变_39__副本-2" data-name="未命名的渐变 39 _副本" x1="93.18" y1="143.97" x2="205.45" y2="143.97" xlink:href="#未命名的渐变_39"/>
+    <linearGradient id="未命名的渐变_86-7" x1="93.79" y1="143.97" x2="204.95" y2="143.97" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_86"/>
+    <linearGradient id="未命名的渐变_39__副本-3" data-name="未命名的渐变 39 _副本" x1="93.29" y1="143.97" x2="205.45" y2="143.97" xlink:href="#未命名的渐变_39"/>
+    <linearGradient id="未命名的渐变_118" data-name="未命名的渐变 118" x1="261.39" y1="237.54" x2="236.93" y2="203.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#263f68"/>
+      <stop offset="0.49" stop-color="#27416a"/>
+      <stop offset="0.66" stop-color="#2a4870"/>
+      <stop offset="0.79" stop-color="#30537b"/>
+      <stop offset="0.89" stop-color="#39648b"/>
+      <stop offset="0.98" stop-color="#447a9f"/>
+      <stop offset="1" stop-color="#4781a5"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_156-10" x1="231.99" y1="225.54" x2="272.69" y2="225.54" xlink:href="#未命名的渐变_156"/>
+    <linearGradient id="未命名的渐变_10" data-name="未命名的渐变 10" x1="262.34" y1="220" x2="270.95" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#112b60"/>
+      <stop offset="0.2" stop-color="#133165"/>
+      <stop offset="0.46" stop-color="#1a4174"/>
+      <stop offset="0.75" stop-color="#255b8b"/>
+      <stop offset="1" stop-color="#3078a5"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path class="cls-1" d="M275.4,216.8c7.1,3,22,7,22,15.1,0,6.3-4.8,6.4-7.8,5.9s-15.1-5.7-19.7-10.1-3.6-11.3,2.2-11.6a17,17,0,0,1,4.2,1"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_438" data-name="未命名的渐变 438" x1="-840.6" y1="362.16" x2="-842.09" y2="362.16" gradientTransform="matrix(13.79, 0, 0, -13.79, 11891.52, 5225.07)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#86e3f8"/>
+      <stop offset="0.3" stop-color="#55b7dd"/>
+      <stop offset="0.61" stop-color="#278fc3"/>
+      <stop offset="0.86" stop-color="#0b75b3"/>
+      <stop offset="1" stop-color="#006cad"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path class="cls-1" d="M276,348.4a4.2,4.2,0,0,0,2.1,5.6c1.5,1,8.1,3,12.7,3.9s8.9-2,9-5.1c.4-9.2-5.2-9.8-10.9-9.8,0,0-11.7,1.9-12.9,5.4"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_452" data-name="未命名的渐变 452" x1="-595.83" y1="-342.17" x2="-594.27" y2="-342.17" gradientTransform="translate(-9447.9 -5247.1) rotate(180) scale(16.36)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b4173"/>
+      <stop offset="0.29" stop-color="#1f6fa2"/>
+      <stop offset="0.61" stop-color="#329cd0"/>
+      <stop offset="0.86" stop-color="#3eb8ec"/>
+      <stop offset="1" stop-color="#43c2f7"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_10-2" x1="288.61" y1="322.5" x2="297.74" y2="322.5" xlink:href="#未命名的渐变_10"/>
+    <linearGradient id="未命名的渐变_438-2" x1="287.04" y1="338.58" x2="299.48" y2="338.58" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_438"/>
+    <linearGradient id="未命名的渐变_438-3" x1="286.66" y1="307.71" x2="300.51" y2="307.71" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_438"/>
+    <clipPath id="clip-path-4">
+      <path class="cls-1" d="M270.3,352.3c-1.3,3.5.2,4.7,1.1,5.3s8.1,3,12.7,3.9,8.9-2,9-5.1c.4-9.2-5.2-9.8-10.9-9.8,0,0-10.7,2.2-11.9,5.7"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_452-2" x1="-667.84" y1="-316.91" x2="-665.79" y2="-316.91" gradientTransform="translate(4693.5 -8929.4) rotate(-90) scale(13.92)" xlink:href="#未命名的渐变_452"/>
+    <clipPath id="clip-path-5">
+      <path class="cls-1" d="M281.9,326.1a4.6,4.6,0,0,0,9.2,0,4.6,4.6,0,0,0-9.2,0"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_10-3" x1="-616.47" y1="-488.17" x2="-614.99" y2="-488.17" gradientTransform="translate(-3507 -2681.5) rotate(180) scale(6.16)" xlink:href="#未命名的渐变_10"/>
+    <clipPath id="clip-path-6">
+      <path class="cls-1" d="M286.3,330.1c-2.7.2-3.7-1.7-4.3-3s-2.2,20.9-1.5,21.9,3.5,8.5,5.4,8.7,4.6-4,6.1-5.4.5-23.2-1-25.6c0,0-1.8,3.2-4.7,3.4"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_438-4" x1="-606.1" y1="-426.09" x2="-607.58" y2="-426.09" gradientTransform="translate(-4813.2 -3238.3) rotate(180) scale(8.4)" xlink:href="#未命名的渐变_438"/>
+    <clipPath id="clip-path-7">
+      <path class="cls-1" d="M301.8,278.3c.5,2.7.8,7.1-11.7,7.6s-14.5-5.1-12-9.6c1-1.8,4.9-2.6,9.3-2.6,6.4,0,13.8,1.7,14.4,4.6"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_10-4" x1="-41.78" y1="-350.5" x2="-40.3" y2="-350.5" gradientTransform="translate(-396.3 -5577.3) rotate(180) scale(16.71)" xlink:href="#未命名的渐变_10"/>
+    <clipPath id="clip-path-8">
+      <path class="cls-1" d="M311.4,234.3c3.6,6,2.4,34.2-5.7,40.3s-24.1,3-30.5-1c-4.6-3-4.4-9.7-4.8-18-1-22.4,17.6-25.7,17.6-25.7a40.7,40.7,0,0,1,10.1-1.4c5,0,10.5,1.2,13.3,5.8"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_28" data-name="未命名的渐变 28" x1="-269.75" y1="-309.02" x2="-271.23" y2="-309.02" gradientTransform="translate(-7550.3 -8704.6) rotate(180) scale(28.99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#86e3f8"/>
+      <stop offset="0.25" stop-color="#55b7dd"/>
+      <stop offset="0.51" stop-color="#278fc3"/>
+      <stop offset="0.72" stop-color="#0b75b3"/>
+      <stop offset="0.83" stop-color="#006cad"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_7" data-name="未命名的渐变 7" x1="282.38" y1="233.62" x2="309.1" y2="233.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#112b60"/>
+      <stop offset="0.27" stop-color="#122e63"/>
+      <stop offset="0.48" stop-color="#16386c"/>
+      <stop offset="0.68" stop-color="#1d497b"/>
+      <stop offset="0.86" stop-color="#266090"/>
+      <stop offset="1" stop-color="#3078a5"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_10-5" x1="242.46" y1="247.82" x2="251.07" y2="247.82" xlink:href="#未命名的渐变_10"/>
+    <linearGradient id="未命名的渐变_7-2" x1="286.98" y1="234.56" x2="303.34" y2="234.56" xlink:href="#未命名的渐变_7"/>
+    <clipPath id="clip-path-9">
+      <path class="cls-1" d="M296.2,213c3.8.6,6.4,4.3,6.4,8.5v11.4h0c0,1.1-3.3,1.9-7.4,1.9s-7.5-.8-7.5-1.9h0V221.2c0-4.6,3.3-8.3,7.5-8.3h1"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_139" data-name="未命名的渐变 139" x1="312.37" y1="-412.38" x2="313.85" y2="-412.38" gradientTransform="translate(3458 -3941.7) rotate(180) scale(10.1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#66e5ff"/>
+      <stop offset="0.15" stop-color="#52d1f3"/>
+      <stop offset="0.53" stop-color="#26a3d7"/>
+      <stop offset="0.83" stop-color="#0a87c5"/>
+      <stop offset="1" stop-color="#007cbf"/>
+    </linearGradient>
+    <clipPath id="clip-path-10">
+      <path class="cls-1" d="M264,214c1.6,3,.5,4.8-.4,5.9s-5.3,1.9-6.6,1.2a7.1,7.1,0,0,1-2.4-1.8,4,4,0,0,1-.3-2.2s-5.3-1.5-6.9-2.2-.8-2.2,1.2-1.9a29.3,29.3,0,0,1,4.7.9,6.3,6.3,0,0,1,4.6-3.9C259.1,209.8,262.6,211.5,264,214Z"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_452-3" x1="201.31" y1="-315.76" x2="202.79" y2="-315.76" gradientTransform="translate(2633.5 -3498.8) rotate(180) scale(11.77)" xlink:href="#未命名的渐变_452"/>
+    <linearGradient id="未命名的渐变_51" data-name="未命名的渐变 51" x1="81.79" y1="-644.96" x2="84.36" y2="-642.61" gradientTransform="translate(286.5 866.3) rotate(-10.1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.09" stop-color="#263f68"/>
+      <stop offset="0.43" stop-color="#355d84"/>
+      <stop offset="0.79" stop-color="#42779c"/>
+      <stop offset="1" stop-color="#4781a5"/>
+    </linearGradient>
+    <clipPath id="clip-path-11">
+      <path class="cls-1" d="M327.9,180.4a37.6,37.6,0,1,1-47-25.1,38.5,38.5,0,0,1,11-1.6,37.7,37.7,0,0,1,36,26.7"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_29" data-name="未命名的渐变 29" x1="256.72" y1="187.37" x2="326.06" y2="199.5" gradientTransform="translate(68.9 -76.5) rotate(16.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#86e3f8"/>
+      <stop offset="0.27" stop-color="#55b7dd"/>
+      <stop offset="0.56" stop-color="#278fc3"/>
+      <stop offset="0.78" stop-color="#0b75b3"/>
+      <stop offset="0.91" stop-color="#006cad"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_10-6" x1="290.96" y1="196.86" x2="274.53" y2="197.78" xlink:href="#未命名的渐变_10"/>
+    <clipPath id="clip-path-12">
+      <path class="cls-2" d="M289.6,195.5c1.5,5.1-.6,10.2-4.7,11.4s-8.6-1.8-10.2-6.8.6-10.2,4.7-11.4l1.8-.3c3.6,0,7.1,2.9,8.4,7.1"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_152-3" x1="288.17" y1="-148.21" x2="289.4" y2="-147.89" gradientTransform="translate(3307.2 -1352) rotate(-180) scale(10.47)" xlink:href="#未命名的渐变_152"/>
+    <clipPath id="clip-path-13">
+      <path class="cls-1" d="M285.7,251.9a7.1,7.1,0,1,1-7.1-7.1,7.1,7.1,0,0,1,7.1,7.1"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_10-7" x1="148.75" y1="-870.26" x2="150.23" y2="-870.26" gradientTransform="matrix(0, -9.6, 9.6, 0, 8637.24, 1687.71)" xlink:href="#未命名的渐变_10"/>
+    <clipPath id="clip-path-14">
+      <path class="cls-1" d="M281.4,253.4c0,3.6-8.1,12.9-12.5,14.6s-9.7-3.5-8.1-7.4,11-11.6,15.1-12.1h1.2c3.2,0,4.3,1.8,4.3,5"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_438-5" x1="78.8" y1="-810.48" x2="77.32" y2="-810.48" gradientTransform="translate(8895.8 1092.1) rotate(-90) scale(10.64)" xlink:href="#未命名的渐变_438"/>
+    <linearGradient id="未命名的渐变_10-8" x1="257.88" y1="265.88" x2="267.36" y2="265.88" xlink:href="#未命名的渐变_10"/>
+    <clipPath id="clip-path-15">
+      <path class="cls-1" d="M259.6,256.6c2.6,3.4,3.8,4.9,4.6,7.3s1.3,7-5,7.4-10.5-8.3-14.3-15.1c-2.8-5.1,0-9.3,5-9.5,1.9,0,3,2,4.7,3.9S257.8,254.3,259.6,256.6Z"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_438-6" x1="62.21" y1="-68.08" x2="63.19" y2="-68.04" gradientTransform="translate(421.8 -1009.5) rotate(145) scale(13.79)" xlink:href="#未命名的渐变_438"/>
+    <clipPath id="clip-path-16">
+      <path class="cls-1" d="M280.9,289.3c-4.4,4.3-3.4,13-1.1,15.3s11.4,1.8,14.1.3,2.6-9.6,2.6-9.6c-.9-2.8-2.6-5.9-5.9-7.4a10.4,10.4,0,0,0-4.5-1.5c-1.4,0-3.1.7-5.2,2.9"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_10-9" x1="-599.5" y1="-367.09" x2="-598.02" y2="-367.09" gradientTransform="translate(-7273.2 -4338.5) rotate(180) scale(12.63)" xlink:href="#未命名的渐变_10"/>
+    <clipPath id="clip-path-17">
+      <path class="cls-3" d="M277.9,281.4c3.7,2.9,7.1,1,11.5.7s7.7,3,12.3-.7c2.3-1.9,3.8,9.2,1.1,15.7-1.3,3-4.2,6.6-8.8,6.9,2.5-3.4.7-9.9-1.2-11.7s-7.5-3.1-10.6-.9-4.8,6.7-2.5,12.3c-4.5-2-4.8-8-5.1-9.5-.8-5.1.7-13.1,2.7-13.1a.9.9,0,0,1,.6.3"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_30-3" x1="-132.93" y1="-334" x2="-134.41" y2="-334" gradientTransform="translate(-2405.6 -6441.8) rotate(180) scale(20.16)" xlink:href="#未命名的渐变_30"/>
+    <clipPath id="clip-path-18">
+      <path class="cls-1" d="M293.4,298.5a6.7,6.7,0,0,1-6.6,6.6,6.6,6.6,0,0,1-6.5-6.6,6.5,6.5,0,0,1,6.5-6.5,6.6,6.6,0,0,1,6.6,6.5"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_10-10" x1="440.01" y1="-437.76" x2="441.49" y2="-437.76" gradientTransform="translate(4184.8 -3573) rotate(180) scale(8.84)" xlink:href="#未命名的渐变_10"/>
+    <clipPath id="clip-path-19">
+      <path class="cls-1" d="M264.3,189.9c2.5,3.1,8.2,19.1,1.8,20.2a8.5,8.5,0,0,1-8.3-2.9c-5.7-13.1-2.8-22.4-2.8-22.4h0c2.1,0,7.3,2.7,9.3,5.2"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_20" data-name="未命名的渐变 20" x1="491.12" y1="-123.44" x2="492.6" y2="-123.44" gradientTransform="translate(4441.9 -851.2) rotate(-180) scale(8.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#112b60"/>
+      <stop offset="0.2" stop-color="#133165"/>
+      <stop offset="0.46" stop-color="#1a4173"/>
+      <stop offset="0.75" stop-color="#245b8b"/>
+      <stop offset="1" stop-color="#3078a5"/>
+      <stop offset="1" stop-color="#3078a5"/>
+    </linearGradient>
+    <clipPath id="clip-path-20">
+      <rect class="cls-1" x="258.9" y="194.8" width="2.6" height="8.81"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <path class="cls-1" d="M250.2,235.2c1.9,5.2-2,12-6.7,11.5s-6.4-7.6-3.9-10.9,4.9-1.5,5,.3,1.9,2.1,2.3-.1,1-2.4,1.9-2.4,1.1.5,1.4,1.6"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_452-4" x1="346.07" y1="82.49" x2="347.55" y2="82.49" gradientTransform="translate(3474.9 1008.1) rotate(180) scale(9.31)" xlink:href="#未命名的渐变_452"/>
+    <clipPath id="clip-path-22">
+      <path class="cls-1" d="M280.1,301.8c-.4,1.8.1,19,1.9,23.7.5-2.7,2.6-3.4,4.6-3.4a4.4,4.4,0,0,1,4.4,3.5c1.9-.6,3.4-21,2.6-23.5s-2.7-5.1-7.2-5.1a6.4,6.4,0,0,0-6.3,4.8"/>
+    </clipPath>
+    <linearGradient id="未命名的渐变_438-7" x1="-603.63" y1="-407.45" x2="-605.11" y2="-407.45" gradientTransform="translate(-5366.3 -3499.6) rotate(180) scale(9.35)" xlink:href="#未命名的渐变_438"/>
+    <linearGradient id="未命名的渐变_91-3" x1="9899.47" y1="248.79" x2="9909.88" y2="248.79" gradientTransform="matrix(-1, 0, 0, 1, 10244.12, 0)" xlink:href="#未命名的渐变_91"/>
+    <linearGradient id="未命名的渐变_68" data-name="未命名的渐变 68" x1="9893.61" y1="256.62" x2="9893.59" y2="239.15" gradientTransform="matrix(-1, 0, 0, 1, 10244.12, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.53" stop-color="#1e2740"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_86-8" x1="9896.95" y1="238.14" x2="9891.77" y2="234.28" gradientTransform="matrix(-1, 0, 0, 1, 10244.12, 0)" xlink:href="#未命名的渐变_86"/>
+    <linearGradient id="未命名的渐变_63" data-name="未命名的渐变 63" x1="9894.43" y1="253.93" x2="9883.01" y2="260.92" gradientTransform="matrix(-1, 0, 0, 1, 10244.12, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.38" stop-color="#1b2339"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_97" data-name="未命名的渐变 97" x1="9883.56" y1="263.29" x2="9880.77" y2="264.64" gradientTransform="matrix(-1, 0, 0, 1, 10244.12, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.55" stop-color="#1f2740"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_56" data-name="未命名的渐变 56" x1="9893.68" y1="263.14" x2="9893.72" y2="275.13" gradientTransform="matrix(-1, 0, 0, 1, 10244.12, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141a2b"/>
+      <stop offset="0.41" stop-color="#151c2e"/>
+      <stop offset="0.69" stop-color="#1a2136"/>
+      <stop offset="0.92" stop-color="#212a45"/>
+      <stop offset="1" stop-color="#252f4d"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_86-9" x1="9884.67" y1="257.49" x2="9910.15" y2="257.49" gradientTransform="matrix(-1, 0, 0, 1, 10244.12, 0)" xlink:href="#未命名的渐变_86"/>
+    <linearGradient id="未命名的渐变_126-3" x1="9879.97" y1="255.97" x2="9910.78" y2="255.97" gradientTransform="matrix(-1, 0, 0, 1, 10244.12, 0)" xlink:href="#未命名的渐变_126"/>
+    <linearGradient id="未命名的渐变_79-6" x1="98.16" y1="226.65" x2="117.71" y2="226.65" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-7" x1="128.53" y1="209.19" x2="148.08" y2="209.19" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-8" x1="158.9" y1="191.72" x2="178.45" y2="191.72" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-9" x1="98.16" y1="258.96" x2="117.71" y2="258.96" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-10" x1="128.53" y1="241.49" x2="148.08" y2="241.49" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-11" x1="158.9" y1="224.02" x2="178.45" y2="224.02" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-12" x1="98.16" y1="291.26" x2="117.71" y2="291.26" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-13" x1="128.53" y1="273.79" x2="148.08" y2="273.79" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-14" x1="128.53" y1="306.09" x2="148.08" y2="306.09" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-15" x1="158.9" y1="256.32" x2="178.45" y2="256.32" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_81" data-name="未命名的渐变 81" x1="192.92" y1="128.43" x2="92.53" y2="186.01" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#263f68"/>
+      <stop offset="0.06" stop-color="#2a4870"/>
+      <stop offset="0.27" stop-color="#376187"/>
+      <stop offset="0.5" stop-color="#407398"/>
+      <stop offset="0.73" stop-color="#457ea2"/>
+      <stop offset="1" stop-color="#4781a5"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_8" data-name="未命名的渐变 8" x1="167.59" y1="143.04" x2="95.68" y2="184.29" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#48cdf3"/>
+      <stop offset="0.47" stop-color="#3bc2f3"/>
+      <stop offset="1" stop-color="#30b9f3"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_79-16" x1="111.15" y1="153.35" x2="118.72" y2="153.35" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-17" x1="119.85" y1="148.26" x2="128.11" y2="148.26" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-18" x1="129.69" y1="143.04" x2="137.42" y2="143.04" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-19" x1="139" y1="134.87" x2="146.82" y2="134.87" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-20" x1="149.26" y1="131.34" x2="151.26" y2="131.34" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-21" x1="153.65" y1="129.84" x2="161.18" y2="129.84" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-22" x1="163.06" y1="125.18" x2="170.92" y2="125.18" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-23" x1="173.57" y1="123.71" x2="175.36" y2="123.71" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-24" x1="178.36" y1="121.01" x2="180.15" y2="121.01" xlink:href="#未命名的渐变_79"/>
+    <linearGradient id="未命名的渐变_79-25" x1="183.14" y1="118.3" x2="184.93" y2="118.3" xlink:href="#未命名的渐变_79"/>
+    <clipPath id="clip-path-23">
+      <path class="cls-1" d="M-5777.7,465.7a126,126,0,0,0-126,126,126,126,0,0,0,126,126,126,126,0,0,0,125.9-126A126,126,0,0,0-5777.7,465.7Zm0-26.9a152.9,152.9,0,0,1,152.9,152.9c0,84.5-68.5,153-152.9,153a153,153,0,0,1-153-153A152.9,152.9,0,0,1-5777.7,438.8Z"/>
+    </clipPath>
+    <clipPath id="clip-path-24">
+      <path class="cls-4" d="M-5684,689.1a13.4,13.4,0,0,1,19-1l53.5,48.1a13.5,13.5,0,0,1,1,19.1,13.5,13.5,0,0,1-19,1l-53.5-48.2A13.4,13.4,0,0,1-5684,689.1Z"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <path class="cls-1" d="M-5759.7,528.7c-10.8,0-19.3,8.3-19.3,18.2s8.5,18.1,19.3,18.1,19.2-8.3,19.2-18.1S-5748.9,528.7-5759.7,528.7Zm0-27c25.5,0,46.2,20.2,46.2,45.2s-20.7,45.1-46.2,45.1-46.3-20.2-46.3-45.1S-5785.3,501.7-5759.7,501.7Z"/>
+    </clipPath>
+    <clipPath id="clip-path-26">
+      <path class="cls-1" d="M-5759.7,571c47.1,0,85.4,37.4,85.4,83.7a13.4,13.4,0,0,1-13.5,13.5,13.5,13.5,0,0,1-13.5-13.5c0-31.2-26.1-56.7-58.4-56.7s-58.5,25.5-58.5,56.7a13.5,13.5,0,0,1-13.5,13.5,13.4,13.4,0,0,1-13.5-13.5C-5845.2,608.4-5806.9,571-5759.7,571Z"/>
+    </clipPath>
+    <clipPath id="clip-path-27">
+      <path class="cls-1" d="M-5813.7,497.2a13.6,13.6,0,0,1,13.5,13.5,13.6,13.6,0,0,1-12.2,13.5h-1.3c-9.7,0-18,9-18,20.5s7.6,19.6,16.7,20.3h1.3a13.5,13.5,0,0,1,13.5,13.5,13.6,13.6,0,0,1-13.5,13.5c-25.1,0-45-21.5-45-47.4S-5838.8,497.2-5813.7,497.2Z"/>
+    </clipPath>
+    <clipPath id="clip-path-28">
+      <path class="cls-1" d="M-5813.7,565.1a13.5,13.5,0,0,1,13.5,13.5,13.6,13.6,0,0,1-13.5,13.5c-22.2,0-40.5,19.7-40.5,44.6a13.5,13.5,0,0,1-13.5,13.5,13.4,13.4,0,0,1-13.5-13.5C-5881.2,597.4-5851.2,565.1-5813.7,565.1Z"/>
+    </clipPath>
+  </defs>
+  <title>缺省页插画</title>
+  <g class="cls-5">
+    <g id="图层_2" data-name="图层 2">
+      <g class="cls-6">
+        <g>
+          <g class="cls-7">
+            <ellipse class="cls-8" cx="285.5" cy="354.5" rx="11.8" ry="23.5" transform="translate(-78.7 627.4) rotate(-88)"/>
+          </g>
+          <path class="cls-9" d="M0,333.5c64.1-28.7,131.1-44,200-44s135.9,15.3,200,44"/>
+          <g class="cls-10">
+            <image width="243" height="164" transform="translate(14 245.8)" xlink:href="data:image/png;base64,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"/>
+          </g>
+          <g>
+            <g>
+              <path class="cls-11" d="M334.3,101.8h0L291.2,75.6a.3.3,0,0,0-.5.1l-6.9,5.1a.1.1,0,0,1-.1.1h0c-.1,0-.1.1-.1.2h0v8.5a.8.8,0,0,0,.2.5L327,116.4h.6l6.8-5.1a.8.8,0,0,0,.2-.4v-8.6A.5.5,0,0,0,334.3,101.8Z"/>
+              <path class="cls-11" d="M305.5,84a4.6,4.6,0,0,0,2.3.7,2.7,2.7,0,0,0,1.9-.7h0l6.9-5.3c1.2-1,1.7-2.6,1.7-4.8a12.7,12.7,0,0,0-1.5-6.5,10.7,10.7,0,0,0-3.8-4.5c-1.1-.7-2.8-1.5-4.4-.1l-6.9,5.3h0c-1.1.8-1.6,2.4-1.7,4.7a15.2,15.2,0,0,0,1.5,6.6A11.5,11.5,0,0,0,305.5,84Z"/>
+              <path class="cls-11" d="M312.8,108c-1.1-.7-2.8-1.4-4.4-.1l-6.9,5.3h0c-1.1.8-1.6,2.4-1.6,4.8a12.7,12.7,0,0,0,1.5,6.5,10.6,10.6,0,0,0,3.9,4.6,4.9,4.9,0,0,0,2.3.7,2.7,2.7,0,0,0,1.9-.7h0l6.9-5.3c1.2-1,1.7-2.6,1.8-4.8a14.2,14.2,0,0,0-1.6-6.5A10.7,10.7,0,0,0,312.8,108Z"/>
+            </g>
+            <g class="cls-12">
+              <path class="cls-13" d="M302.2,114h.1a1.8,1.8,0,0,1,1.1-.4,4.3,4.3,0,0,1,2,.7,9.4,9.4,0,0,1,3.4,4.1,12.1,12.1,0,0,1,1.4,6c0,1.9-.4,3.2-1.3,4s-1.8.6-3-.1a10.1,10.1,0,0,1-3.6-4.2,14.2,14.2,0,0,1-1.4-6C300.9,116,301.4,114.6,302.2,114Z"/>
+              <path class="cls-14" d="M315.7,123l-4.7,3.6a7.5,7.5,0,0,0,.3-2.3,13.1,13.1,0,0,0-1.6-6.5,10,10,0,0,0-3.8-4.5,7.5,7.5,0,0,0-1.8-.8l5-3.8c.6-.5,1.4-.9,3.1.2a8.2,8.2,0,0,1,3.4,4.1,12.1,12.1,0,0,1,1.5,6A5.1,5.1,0,0,1,315.7,123Z"/>
+              <path class="cls-15" d="M302.4,68.9h.1a1.6,1.6,0,0,1,1.1-.4,4.3,4.3,0,0,1,2,.7,9.4,9.4,0,0,1,3.4,4.1,13.3,13.3,0,0,1,1.4,6c0,1.9-.4,3.2-1.4,4s-1.7.6-2.9-.1a10.1,10.1,0,0,1-3.6-4.2,12.9,12.9,0,0,1-1.4-6C301.1,70.9,301.5,69.5,302.4,68.9Z"/>
+              <path class="cls-16" d="M315.9,77.9l-4.7,3.6a7.5,7.5,0,0,0,.3-2.3,12.8,12.8,0,0,0-1.6-6.5,10,10,0,0,0-3.8-4.5,7.5,7.5,0,0,0-1.8-.8l4.9-3.8c.6-.5,1.5-.9,3.2.2a8.2,8.2,0,0,1,3.4,4.1,12.1,12.1,0,0,1,1.5,6A5.1,5.1,0,0,1,315.9,77.9Z"/>
+              <polygon class="cls-17" points="333.1 102.4 327.2 106.8 285.1 81.2 291 76.7 333.1 102.4"/>
+              <polygon class="cls-18" points="327.8 114.9 327.8 107.7 333.6 103.4 333.5 110.6 327.8 114.9"/>
+              <polygon class="cls-19" points="284.6 89.4 284.7 82.2 306.7 95.6 326.7 107.8 326.7 115 284.6 89.4"/>
+              <g>
+                <path class="cls-20" d="M283.6,89.7a.8.8,0,0,0,.2.5L327,116.4h.6l6.8-5.1a.8.8,0,0,0,.2-.4v-8.6a.5.5,0,0,0-.3-.5h0L291.2,75.6a.3.3,0,0,0-.5.1l-6.9,5.1a.1.1,0,0,1-.1.1h0c-.1,0-.1.1-.1.2h0Zm49.5,12.7-5.9,4.4L285.1,81.2l5.9-4.5Zm-5.3,12.5v-7.2l5.8-4.3v7.2ZM284.6,89.4V82.2l22,13.4,20,12.2V115Z"/>
+                <path class="cls-21" d="M309.7,84l6.9-5.3c1.2-1,1.7-2.6,1.7-4.8a12.7,12.7,0,0,0-1.5-6.5,10.7,10.7,0,0,0-3.8-4.5c-1.1-.7-2.8-1.5-4.4-.1l-6.9,5.3h0c-1.1.8-1.6,2.4-1.6,4.7a13.8,13.8,0,0,0,1.4,6.6,11.5,11.5,0,0,0,4,4.6,4.6,4.6,0,0,0,2.3.7,2.7,2.7,0,0,0,1.9-.7Zm-7.3-15.1h.1a1.6,1.6,0,0,1,1.1-.4,4.3,4.3,0,0,1,2,.7,9.4,9.4,0,0,1,3.4,4.1,13.3,13.3,0,0,1,1.4,6c0,1.9-.4,3.2-1.4,4s-1.7.6-2.9-.1a10.1,10.1,0,0,1-3.6-4.2,12.9,12.9,0,0,1-1.4-6C301.1,70.9,301.5,69.5,302.4,68.9Zm13.5,9-4.7,3.6a7.5,7.5,0,0,0,.3-2.3,12.8,12.8,0,0,0-1.6-6.5,10,10,0,0,0-3.8-4.5,7.5,7.5,0,0,0-1.8-.8l4.9-3.8c.6-.5,1.5-.9,3.2.2a8.2,8.2,0,0,1,3.4,4.1,12.1,12.1,0,0,1,1.5,6A5.1,5.1,0,0,1,315.9,77.9Z"/>
+                <path class="cls-22" d="M309.5,129.1l6.9-5.3c1.2-1,1.7-2.6,1.8-4.8a14.2,14.2,0,0,0-1.6-6.5,10.7,10.7,0,0,0-3.8-4.5c-1.1-.7-2.8-1.4-4.4-.1l-6.9,5.3h0c-1.1.8-1.6,2.4-1.6,4.8a12.7,12.7,0,0,0,1.5,6.5,10.6,10.6,0,0,0,3.9,4.6,4.9,4.9,0,0,0,2.3.7,2.7,2.7,0,0,0,1.9-.7ZM302.2,114h.1a1.8,1.8,0,0,1,1.1-.4,4.3,4.3,0,0,1,2,.7,9.4,9.4,0,0,1,3.4,4.1,12.1,12.1,0,0,1,1.4,6c0,1.9-.4,3.2-1.3,4s-1.8.6-3-.1a10.1,10.1,0,0,1-3.6-4.2,14.2,14.2,0,0,1-1.4-6C300.9,116,301.4,114.6,302.2,114Zm13.5,9-4.7,3.6a7.5,7.5,0,0,0,.3-2.3,13.1,13.1,0,0,0-1.6-6.5,10,10,0,0,0-3.8-4.5,7.5,7.5,0,0,0-1.8-.8l5-3.8c.6-.5,1.4-.9,3.1.2a8.2,8.2,0,0,1,3.4,4.1,12.1,12.1,0,0,1,1.5,6A5.1,5.1,0,0,1,315.7,123Z"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <path class="cls-11" d="M76.6,214.4h-.1l-5.1-3.9H71L39.1,229.6H39a.5.5,0,0,0-.2.4v6.3c0,.2,0,.3.1.3l5,3.8h.5l32-19.4c.1-.1.2-.2.2-.3Z"/>
+            <g class="cls-12">
+              <polygon class="cls-23" points="71.2 211 75.6 214.3 44.3 233.3 39.9 230 71.2 211"/>
+              <polygon class="cls-24" points="39.6 236.1 39.6 230.8 43.9 234 43.9 239.3 39.6 236.1"/>
+              <polygon class="cls-25" points="44.7 239.4 44.7 234 59.6 225 75.9 215.1 75.9 220.4 44.7 239.4"/>
+              <path class="cls-26" d="M76.6,214.4h-.1l-5.1-3.9H71L39.1,229.6H39a.5.5,0,0,0-.2.4v6.3c0,.2,0,.3.1.3l5,3.8h.5l32-19.4c.1-.1.2-.2.2-.3ZM71.2,211l4.4,3.3-31.3,19L39.9,230ZM39.6,236.1v-5.3l4.3,3.2v5.3Zm5.1,3.3V234l14.9-9,16.3-9.9v5.3Z"/>
+            </g>
+          </g>
+          <g>
+            <path class="cls-11" d="M116.1,71l-11.7-9.9,11.7-24.3a.7.7,0,0,0-.1-.5l-2.9-2.4H113l-5.3-3.4h-.3l-.3.2L95.9,53.9l-6.6-5.6h0L84,44.8h-.4c-.1.1-.2.1-.2.2l-2.9,6h0v.2h.1l11.8,9.8L80.7,85.6h0c-.1,0-.1.1-.1.2h0v.2h.1l2.9,2.5L89,92.1h.2a.1.1,0,0,0,.1-.1h.3l11.2-23.4,6.7,5.7,5.3,3.4h.3a.1.1,0,0,0,.1-.1h.1l2.9-6C116.3,71.4,116.2,71.2,116.1,71Zm-8.2,2.5-6.7-5.7h0l7,6Z"/>
+            <g class="cls-12">
+              <polygon class="cls-27" points="107.6 31.2 112.3 34.3 100.9 58.1 96.6 54.4 107.6 31.2"/>
+              <polygon class="cls-28" points="83.9 45.7 88.6 48.7 86 54 81.4 50.9 83.9 45.7"/>
+              <polygon class="cls-29" points="93.1 61.7 97.7 64.8 86.2 88.7 81.5 85.7 93.1 61.7"/>
+              <g>
+                <path class="cls-30" d="M112.9,76.7l-11.6-9.9H101l-.3.2L89.1,91.1l-2.3-1.9L98.6,64.8h0v-.2h-.1L86.7,54.5l2.5-5.3,11.6,9.9c.1,0,.2.1.3,0l.3-.2,11.5-24.1,2.3,1.9L103.5,61a.7.7,0,0,0,.1.5l11.8,9.9Z"/>
+                <polygon class="cls-31" points="107.6 31.2 112.3 34.3 100.9 58.1 96.6 54.4 107.6 31.2"/>
+                <polygon class="cls-32" points="83.9 45.7 88.6 48.7 86 54 81.4 50.9 83.9 45.7"/>
+                <polygon class="cls-33" points="93.1 61.7 97.7 64.8 86.2 88.7 81.5 85.7 93.1 61.7"/>
+                <path class="cls-34" d="M116.1,71l-11.7-9.9,11.7-24.3a.7.7,0,0,0-.1-.5l-2.9-2.4H113l-5.3-3.4h-.3l-.3.2L95.9,53.9l-6.6-5.6h0L84,44.8h-.4c-.1.1-.2.1-.2.2l-2.9,6h0v.2h.1l11.8,9.8L80.7,85.6h0c-.1,0-.1.1-.1.2h0v.2h.1l2.9,2.5L89,92.1h.2a.1.1,0,0,0,.1-.1h.3l11.2-23.4,6.7,5.7,5.3,3.4h.3a.1.1,0,0,0,.1-.1h.1l2.9-6C116.3,71.4,116.2,71.2,116.1,71Zm-8.5-39.8,4.7,3.1L100.9,58.1l-4.3-3.7ZM83.9,45.7l4.7,3L86,54l-4.6-3.1Zm9.2,16,4.6,3.1L86.2,88.7l-4.7-3Zm8.1,6.1h0l7,6-.3-.2Zm11.7,8.9-11.6-9.9H101l-.3.2L89.1,91.1l-2.3-1.9L98.6,64.8h0v-.2h-.1L86.7,54.5l2.5-5.3,11.6,9.9c.1,0,.2.1.3,0l.3-.2,11.5-24.1,2.3,1.9L103.5,61a.7.7,0,0,0,.1.5l11.8,9.9Z"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <path class="cls-35" d="M206.4,291.1,92.6,354.7a5.4,5.4,0,0,1-5.5,0,5.3,5.3,0,0,1-2.7-4.7V143a16.5,16.5,0,0,1,8.3-14.2L206.5,65.2a5.4,5.4,0,0,1,8.1,4.8V276.9A16.3,16.3,0,0,1,206.4,291.1Z"/>
+            <path class="cls-36" d="M72.8,345.2l14.3,9.5a5.3,5.3,0,0,1-2.7-4.7V143a16.5,16.5,0,0,1,8.3-14.2L206.5,65.2a5.4,5.4,0,0,1,6.3.7h0L197.3,55.7h.1a5.7,5.7,0,0,0-4.9.3L78.7,119.6a16.4,16.4,0,0,0-8.2,14.2v207a5.1,5.1,0,0,0,2.3,4.4Z"/>
+            <g>
+              <path class="cls-37" d="M116.6,232.2,99.8,242a1.1,1.1,0,0,1-1.6-1V222.3a2.3,2.3,0,0,1,1-1.9l16.9-9.7a1,1,0,0,1,1.6.9v18.7A2.1,2.1,0,0,1,116.6,232.2Z"/>
+              <path class="cls-38" d="M116.6,264.5l-16.8,9.8a1.1,1.1,0,0,1-1.6-1V254.6a2.3,2.3,0,0,1,1-1.9l16.9-9.7a1,1,0,0,1,1.6.9v18.7A2.1,2.1,0,0,1,116.6,264.5Z"/>
+              <path class="cls-39" d="M116.6,296.8l-16.8,9.8a1.1,1.1,0,0,1-1.6-1V286.9a2.3,2.3,0,0,1,1-1.9l16.9-9.7a1,1,0,0,1,1.6.9v18.7A2.1,2.1,0,0,1,116.6,296.8Z"/>
+              <path class="cls-40" d="M116.6,329.1l-16.8,9.8a1.1,1.1,0,0,1-1.6-1V319.2a2.3,2.3,0,0,1,1-1.9l16.9-9.7a1,1,0,0,1,1.6.9v18.7A2.1,2.1,0,0,1,116.6,329.1Z"/>
+              <path class="cls-41" d="M147,214.7l-16.8,9.8a1.1,1.1,0,0,1-1.7-1V204.8a2,2,0,0,1,1.1-1.8l16.8-9.8a1.1,1.1,0,0,1,1.7.9v18.7A2.1,2.1,0,0,1,147,214.7Z"/>
+              <path class="cls-42" d="M147,247l-16.8,9.8a1.1,1.1,0,0,1-1.7-1V237.1a2,2,0,0,1,1.1-1.8l16.8-9.8a1.1,1.1,0,0,1,1.7.9v18.7A2.1,2.1,0,0,1,147,247Z"/>
+              <path class="cls-43" d="M147,279.3l-16.8,9.8a1.1,1.1,0,0,1-1.7-1V269.4a2,2,0,0,1,1.1-1.8l16.8-9.8a1.1,1.1,0,0,1,1.7.9v18.7A2.1,2.1,0,0,1,147,279.3Z"/>
+              <path class="cls-44" d="M147,311.6l-16.8,9.8a1.1,1.1,0,0,1-1.7-1V301.7a2,2,0,0,1,1.1-1.8l16.8-9.8a1.1,1.1,0,0,1,1.7.9v18.7A2.1,2.1,0,0,1,147,311.6Z"/>
+              <path class="cls-45" d="M177.4,197.3,160.5,207a1.1,1.1,0,0,1-1.6-.9V187.4a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1.7,1v18.7A2.5,2.5,0,0,1,177.4,197.3Z"/>
+              <path class="cls-46" d="M177.4,229.6l-16.9,9.7a1.1,1.1,0,0,1-1.6-.9V219.7a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1.7,1v18.7A2.5,2.5,0,0,1,177.4,229.6Z"/>
+              <path class="cls-47" d="M177.4,261.9l-16.9,9.7a1.1,1.1,0,0,1-1.6-.9V252a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1.7,1V260A2.5,2.5,0,0,1,177.4,261.9Z"/>
+              <path class="cls-48" d="M177.4,294.2l-16.9,9.7a1.1,1.1,0,0,1-1.6-.9V284.3a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1.7,1v18.7A2.5,2.5,0,0,1,177.4,294.2Z"/>
+              <path class="cls-49" d="M207.7,179.8l-16.8,9.7a1,1,0,0,1-1.6-.9V169.9a2.1,2.1,0,0,1,1.1-1.9l16.8-9.7a1,1,0,0,1,1.6.9v18.7A2.1,2.1,0,0,1,207.7,179.8Z"/>
+              <path class="cls-50" d="M207.7,212.1l-16.8,9.7a1,1,0,0,1-1.6-.9V202.2a2.1,2.1,0,0,1,1.1-1.9l16.8-9.7a1,1,0,0,1,1.6.9v18.7A2.1,2.1,0,0,1,207.7,212.1Z"/>
+              <path class="cls-51" d="M207.7,276.7l-16.8,9.8a1.1,1.1,0,0,1-1.6-1v-51a2.1,2.1,0,0,1,1.1-1.9l16.8-9.7a1,1,0,0,1,1.6.9v51A2.1,2.1,0,0,1,207.7,276.7Z"/>
+            </g>
+            <g>
+              <path class="cls-52" d="M116.1,210.7l-16.9,9.7a2.3,2.3,0,0,0-1,1.9V241a1.2,1.2,0,0,0,.5,1l-3.5-2h0a.9.9,0,0,1-.4-.8V220.5a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1,0l3.5,1.9S116.4,210.5,116.1,210.7Z"/>
+              <path class="cls-53" d="M116.1,243l-16.9,9.7a2.3,2.3,0,0,0-1,1.9v18.7a1.2,1.2,0,0,0,.5,1l-3.5-2h0c-.3-.1-.4-.5-.4-.8V252.8a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1,0l3.5,1.9S116.4,242.8,116.1,243Z"/>
+              <path class="cls-54" d="M116.1,275.3,99.2,285a2.3,2.3,0,0,0-1,1.9v18.7a1.2,1.2,0,0,0,.5,1l-3.5-2h0c-.3-.1-.4-.5-.4-.8V285.1a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1,0l3.5,1.9S116.4,275.1,116.1,275.3Z"/>
+              <path class="cls-55" d="M116.1,307.6l-16.9,9.7a2.3,2.3,0,0,0-1,1.9v18.7a1.2,1.2,0,0,0,.5,1l-3.5-2h0c-.3-.1-.4-.5-.4-.8V317.4a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1,0l3.5,1.9S116.4,307.4,116.1,307.6Z"/>
+              <path class="cls-56" d="M146.4,193.2,129.6,203a2,2,0,0,0-1.1,1.8v18.7a1.2,1.2,0,0,0,.6,1l-3.5-1.9h0a1.1,1.1,0,0,1-.5-.9V203a2.4,2.4,0,0,1,1.1-1.9l16.9-9.7a1.2,1.2,0,0,1,1-.1l3.5,2A2,2,0,0,0,146.4,193.2Z"/>
+              <path class="cls-57" d="M146.4,225.5l-16.8,9.8a2,2,0,0,0-1.1,1.8v18.7a1.2,1.2,0,0,0,.6,1l-3.5-1.9h0a1.1,1.1,0,0,1-.5-.9V235.3a2.4,2.4,0,0,1,1.1-1.9l16.9-9.7a1.2,1.2,0,0,1,1-.1l3.5,2A2,2,0,0,0,146.4,225.5Z"/>
+              <path class="cls-58" d="M146.4,257.8l-16.8,9.8a2,2,0,0,0-1.1,1.8v18.7a1.2,1.2,0,0,0,.6,1l-3.5-1.9h0a1.1,1.1,0,0,1-.5-.9V267.6a2.4,2.4,0,0,1,1.1-1.9l16.9-9.7a1.2,1.2,0,0,1,1-.1l3.5,2A2,2,0,0,0,146.4,257.8Z"/>
+              <path class="cls-59" d="M146.4,290.1l-16.8,9.8a2,2,0,0,0-1.1,1.8v18.7a1.2,1.2,0,0,0,.6,1l-3.5-1.9h0a1.1,1.1,0,0,1-.5-.9V299.9a2.4,2.4,0,0,1,1.1-1.9l16.9-9.7a1.2,1.2,0,0,1,1-.1l3.5,2A2,2,0,0,0,146.4,290.1Z"/>
+              <path class="cls-60" d="M176.8,175.7,160,185.5a2.1,2.1,0,0,0-1.1,1.9v18.7a1.1,1.1,0,0,0,.5.9l-3.5-1.9h0a1.3,1.3,0,0,1-.4-.9V185.6a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.1,1.1,0,0,1,1.1,0l3.5,1.9A2,2,0,0,0,176.8,175.7Z"/>
+              <path class="cls-61" d="M176.8,208,160,217.8a2.1,2.1,0,0,0-1.1,1.9v18.7a1.1,1.1,0,0,0,.5.9l-3.5-1.9h0a1.3,1.3,0,0,1-.4-.9V217.9a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.1,1.1,0,0,1,1.1,0l3.5,1.9A2,2,0,0,0,176.8,208Z"/>
+              <path class="cls-62" d="M176.8,240.3,160,250.1a2.1,2.1,0,0,0-1.1,1.9v18.7a1.1,1.1,0,0,0,.5.9l-3.5-1.9h0a1.2,1.2,0,0,1-.4-.8V250.2a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.1,1.1,0,0,1,1.1,0l3.5,1.9A2,2,0,0,0,176.8,240.3Z"/>
+              <path class="cls-63" d="M176.8,272.6,160,282.4a2.1,2.1,0,0,0-1.1,1.9V303a1.1,1.1,0,0,0,.5.9l-3.5-1.9h0a1.2,1.2,0,0,1-.4-.8V282.5a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.1,1.1,0,0,1,1.1,0l3.5,1.9A2,2,0,0,0,176.8,272.6Z"/>
+              <path class="cls-64" d="M207.2,158.3,190.4,168a2.1,2.1,0,0,0-1.1,1.9v18.7a.9.9,0,0,0,.5.9l-3.5-1.9h0a1.2,1.2,0,0,1-.4-.8V168.1a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a.9.9,0,0,1,1,0l3.6,1.9S207.5,158,207.2,158.3Z"/>
+              <path class="cls-65" d="M207.2,190.6l-16.8,9.7a2.1,2.1,0,0,0-1.1,1.9v18.7a.9.9,0,0,0,.5.9l-3.5-1.9h0a1.2,1.2,0,0,1-.4-.8V200.4a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1,0l3.6,1.9S207.5,190.3,207.2,190.6Z"/>
+              <path class="cls-66" d="M207.2,222.9l-16.8,9.7a2.1,2.1,0,0,0-1.1,1.9v51a1.2,1.2,0,0,0,.5,1l-3.5-2h0a1.3,1.3,0,0,1-.4-.9v-51a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.2,1.2,0,0,1,1,0l3.5,1.8A1.5,1.5,0,0,0,207.2,222.9Z"/>
+            </g>
+            <g>
+              <path class="cls-67" d="M202.8,144.2,97,205.7a2.2,2.2,0,0,1-3.3-1.8V146a4.4,4.4,0,0,1,2.2-3.8l105.8-60a2.2,2.2,0,0,1,3.3,1.9v56.3A4.5,4.5,0,0,1,202.8,144.2Z"/>
+              <path class="cls-68" d="M93.8,204.6l.4-.2L200,142.8a4.5,4.5,0,0,0,2.2-3.7V82.7c0-.2-.1-.5-.1-.7h0a2.2,2.2,0,0,1,2.9,2.1v56.3a4.5,4.5,0,0,1-2.2,3.8L97,205.7a2.1,2.1,0,0,1-3.2-1.2Z"/>
+            </g>
+          </g>
+          <g>
+            <path class="cls-69" d="M254.8,209.4l17.7,20.3c.3.4.7,2.3-.3,2.9L251.3,245a1,1,0,0,1-1.2-.3l-17.9-24.8c-.7-1.1-.6-2.5.3-2.9l21.2-7.9a.9.9,0,0,1,1.1.3"/>
+            <path class="cls-70" d="M254.8,207.8l17.7,21.9a1,1,0,0,1-.3,1.4l-20.9,12.4a1,1,0,0,1-1.2-.3l-17.9-24.8a.9.9,0,0,1,.3-1.4l21.2-9.4a.9.9,0,0,1,1.1.2"/>
+            <path class="cls-71" d="M263.5,217a4.4,4.4,0,0,1,6.1-.1,4.3,4.3,0,0,1,.1,6.1,4.2,4.2,0,0,1-6,.1,4.3,4.3,0,0,1-.2-6.1"/>
+            <g class="cls-72">
+              <rect class="cls-73" x="265.7" y="206.9" width="35.9" height="45.35" transform="translate(1.1 460.5) rotate(-78.2)"/>
+            </g>
+            <g class="cls-74">
+              <rect class="cls-75" x="274.7" y="343" width="25.4" height="15.94"/>
+            </g>
+            <g>
+              <path class="cls-76" d="M288.6,322.5a4.5,4.5,0,0,0,4.6,4.4,4.4,4.4,0,1,0,0-8.8,4.5,4.5,0,0,0-4.6,4.4"/>
+              <path class="cls-77" d="M297.7,323.1s-1.8,3.2-4.7,3.4-3.7-1.7-4.3-3-2.2,21-1.5,21.9,3.4,8.5,5.4,8.7,4.5-4,6.1-5.4.5-23.2-1-25.6"/>
+              <path class="cls-78" d="M300.3,298.6c-.7-2.5-2.7-5.2-7.2-5.2a6.4,6.4,0,0,0-6.3,4.8c-.4,1.8.1,19,1.8,23.7.6-2.6,2.7-3.4,4.7-3.4a4.5,4.5,0,0,1,4.4,3.5c1.9-.6,3.4-21,2.6-23.4"/>
+            </g>
+            <g class="cls-79">
+              <rect class="cls-80" x="267" y="340.3" width="28.6" height="28.56" transform="translate(-168.4 302.7) rotate(-45)"/>
+            </g>
+            <g class="cls-81">
+              <rect class="cls-82" x="281.9" y="321.7" width="9.1" height="8.83"/>
+            </g>
+            <g class="cls-83">
+              <rect class="cls-84" x="279.8" y="326.7" width="13.8" height="31.17"/>
+            </g>
+            <g class="cls-85">
+              <rect class="cls-86" x="275.6" y="273.7" width="27" height="12.72"/>
+            </g>
+            <g class="cls-87">
+              <rect class="cls-88" x="269.4" y="228.5" width="45.6" height="53.09"/>
+            </g>
+            <path class="cls-89" d="M282.4,233.6c0,2.1,6,3.8,13.3,3.8s13.4-1.7,13.4-3.8-6-3.8-13.4-3.8-13.3,1.7-13.3,3.8"/>
+            <path class="cls-90" d="M243.7,244.8a4.3,4.3,0,1,0,6.2,6,4.3,4.3,0,0,0-6.2-6"/>
+            <path class="cls-91" d="M287,233.5h0c0-.9,3.6-1.7,8.2-1.7s8.1.8,8.1,1.7h0v3.3a44.5,44.5,0,0,1-16.3-.3Z"/>
+            <g class="cls-92">
+              <rect class="cls-93" x="287.7" y="212.9" width="15" height="21.99"/>
+            </g>
+            <g class="cls-94">
+              <rect class="cls-95" x="246.7" y="209.9" width="18.8" height="14.23" transform="translate(-34 48.2) rotate(-10.1)"/>
+              <path class="cls-96" d="M254.3,217.1l1.8.7c.6.3.7.8.3.9S254.3,217.1,254.3,217.1Z"/>
+            </g>
+            <g class="cls-97">
+              <rect class="cls-98" x="240" y="143.2" width="103.6" height="100.71" transform="matrix(0.96, -0.29, 0.29, 0.96, -43.66, 93.24)"/>
+            </g>
+            <path class="cls-99" d="M273.7,200.2c2,6.6,8,10.6,13.3,9s8.1-8.3,6.1-14.9-8-10.6-13.3-8.9-8.1,8.2-6.1,14.8"/>
+            <g>
+              <path class="cls-2" d="M289.6,195.5c1.5,5.1-.6,10.2-4.7,11.4s-8.6-1.8-10.2-6.8.6-10.2,4.7-11.4l1.8-.3c3.6,0,7.1,2.9,8.4,7.1"/>
+              <g class="cls-100">
+                <rect class="cls-101" x="270.7" y="186.2" width="22.9" height="24.12" transform="translate(-45.5 90.6) rotate(-16.9)"/>
+              </g>
+            </g>
+            <g class="cls-102">
+              <rect class="cls-103" x="268.9" y="242.2" width="19.4" height="19.43" transform="translate(-78.9 367.2) rotate(-60)"/>
+            </g>
+            <g class="cls-104">
+              <rect class="cls-105" x="252.6" y="243.8" width="33.1" height="33.27" transform="translate(-91 363.3) rotate(-60)"/>
+            </g>
+            <path class="cls-106" d="M257.9,265.9a4.7,4.7,0,0,0,4.7,4.7,4.8,4.8,0,0,0,4.8-4.7,4.9,4.9,0,0,0-4.8-4.8,4.8,4.8,0,0,0-4.7,4.8"/>
+            <g class="cls-107">
+              <polygon class="cls-108" points="245.9 234.4 231.5 243.3 255.3 276.7 269.7 267.8 245.9 234.4"/>
+            </g>
+            <g class="cls-109">
+              <rect class="cls-110" x="276.5" y="286.4" width="20.2" height="20.65"/>
+            </g>
+            <g>
+              <path class="cls-3" d="M277.9,281.4c3.7,2.9,7.1,1,11.5.7s7.7,3,12.3-.7c2.3-1.9,3.8,9.2,1.1,15.7-1.3,3-4.2,6.6-8.8,6.9,2.5-3.4.7-9.9-1.2-11.7s-7.5-3.1-10.6-.9-4.8,6.7-2.5,12.3c-4.5-2-4.8-8-5.1-9.5-.8-5.1.7-13.1,2.7-13.1a.9.9,0,0,1,.6.3"/>
+              <g class="cls-111">
+                <rect class="cls-112" x="273.8" y="279.5" width="31.7" height="24.47"/>
+              </g>
+            </g>
+            <g class="cls-113">
+              <rect class="cls-114" x="280.3" y="292" width="13.1" height="13.1"/>
+            </g>
+            <g class="cls-115">
+              <rect class="cls-116" x="248.7" y="182.3" width="27.2" height="31.13" transform="translate(-46.2 84.8) rotate(-16.9)"/>
+            </g>
+            <g class="cls-117">
+              <g class="cls-118">
+                <path class="cls-119" d="M261.1,195.2a6,6,0,0,0-1.9-.4s-1,3.4.9,8.6l1.4.2c-1.3-4.4-.8-7-.4-8.4"/>
+              </g>
+            </g>
+            <g class="cls-120">
+              <rect class="cls-121" x="234.5" y="229.8" width="20.3" height="20.16" transform="translate(-87.2 154.4) rotate(-30)"/>
+            </g>
+            <g class="cls-122">
+              <rect class="cls-123" x="279.7" y="297" width="14.7" height="28.64"/>
+            </g>
+          </g>
+          <g>
+            <path class="cls-11" d="M364.1,259.8h0v-.2h0a.1.1,0,0,1-.1-.1l-11.2-6.8V236.5h0v-.2h-.1a.1.1,0,0,0-.1-.1l-3.5-2.1h-.3l-4.1,3h-.1v10.4l-6.7-4.1h-.3l-4.1,3a.1.1,0,0,1-.1.1h0v5.1l.2.3,11.1,6.7v16.4a.2.2,0,0,0,.2.2l3.5,2.2h.3l4.1-3.1c.1,0,.1-.1.1-.2V264.1l6.8,4.1h0a.1.1,0,0,0,.1.1h.1a.1.1,0,0,0,.1-.1h0l4.1-3a.4.4,0,0,0,.1-.3v-5.1Z"/>
+            <g class="cls-12">
+              <polygon class="cls-124" points="344.6 253.3 334.2 246.9 337.8 244.3 344.6 248.5 344.6 253.3"/>
+              <polygon class="cls-125" points="352.3 237.1 352.2 252.8 348.8 255.3 348.8 246.5 348.8 239.7 352.3 237.1"/>
+              <polygon class="cls-126" points="352 236.5 348.5 239.1 346.8 238.1 345.6 237.4 349.1 234.7 352 236.5"/>
+              <polygon class="cls-127" points="363.3 259.8 359.7 262.5 353 258.4 349 255.9 352.5 253.3 363.3 259.8"/>
+              <polygon class="cls-128" points="363.5 264.8 360.1 267.3 360.1 263.8 360.1 263 363.5 260.4 363.5 264.8"/>
+              <polygon class="cls-129" points="352.1 274.4 348.7 277 348.7 261.6 352.2 263.7 352.1 274.4"/>
+              <path class="cls-130" d="M334,251.9v-4.4l10.8,6.6h.3a.4.4,0,0,0,.1-.3V237.9l2.9,1.8V256h0a.1.1,0,0,1,.1.1h.1l11.1,6.8v4.4l-6.8-4.1h0l-4-2.5h-.3c-.1.1-.2.2-.2.3v16l-2.8-1.8V259c0-.2,0-.3-.1-.3Z"/>
+              <path class="cls-131" d="M333.5,252.4l11.1,6.7v16.4a.2.2,0,0,0,.2.2l3.5,2.2h.3l4.1-3.1c.1,0,.1-.1.1-.2V264.1l6.8,4.1h0a.1.1,0,0,0,.1.1h.1a.1.1,0,0,0,.1-.1h0l4.1-3a.4.4,0,0,0,.1-.3v-5.1h0v-.2h0a.1.1,0,0,1-.1-.1l-11.2-6.8V236.5h0v-.2h-.1a.1.1,0,0,0-.1-.1l-3.5-2.1h-.3l-4.1,3h-.1v10.4l-6.7-4.1h-.3l-4.1,3a.1.1,0,0,1-.1.1h0v5.1Zm11.1.9-10.4-6.4,3.6-2.6,6.8,4.2Zm7.7-16.2v15.7l-3.4,2.5V239.7Zm-.3-.6-3.5,2.6-1.7-1-1.2-.7,3.5-2.7Zm11.3,23.3-3.6,2.7-6.7-4.1-4-2.5,3.5-2.6Zm.2,5-3.4,2.5V263l3.4-2.6Zm-11.4,9.6-3.4,2.6V261.6l3.5,2.1ZM334,251.9v-4.4l10.8,6.6h.3a.4.4,0,0,0,.1-.3V237.9l2.9,1.8V256h0a.1.1,0,0,1,.1.1h.1l11.1,6.8v4.4l-6.8-4.1h0l-4-2.5h-.3c-.1.1-.2.2-.2.3v16l-2.8-1.8V259c0-.2,0-.3-.1-.3Z"/>
+            </g>
+          </g>
+          <path class="cls-132" d="M116.6,232.5l-16.8,9.8a1.1,1.1,0,0,1-1.6-.9V222.7a2.3,2.3,0,0,1,1-1.9l16.9-9.8a1.1,1.1,0,0,1,1.6,1v18.6A2.1,2.1,0,0,1,116.6,232.5Z"/>
+          <path class="cls-133" d="M147,215.1l-16.8,9.7a1.1,1.1,0,0,1-1.7-.9V205.2a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.1,1.1,0,0,1,1.7,1v18.7A2.1,2.1,0,0,1,147,215.1Z"/>
+          <path class="cls-134" d="M177.4,197.6l-16.9,9.8a1.1,1.1,0,0,1-1.6-1V187.7a2.1,2.1,0,0,1,1.1-1.9l16.8-9.7a1.1,1.1,0,0,1,1.7.9v18.7A2.4,2.4,0,0,1,177.4,197.6Z"/>
+          <path class="cls-135" d="M116.6,264.8l-16.8,9.8a1.1,1.1,0,0,1-1.6-.9V255a2.3,2.3,0,0,1,1-1.9l16.9-9.8a1.1,1.1,0,0,1,1.6,1V263A2,2,0,0,1,116.6,264.8Z"/>
+          <path class="cls-136" d="M147,247.4l-16.8,9.7a1.1,1.1,0,0,1-1.7-.9V237.5a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.1,1.1,0,0,1,1.7,1v18.7A2.1,2.1,0,0,1,147,247.4Z"/>
+          <path class="cls-137" d="M177.4,229.9l-16.9,9.8a1.1,1.1,0,0,1-1.6-1V220a2.1,2.1,0,0,1,1.1-1.9l16.8-9.7a1.1,1.1,0,0,1,1.7.9V228A2.4,2.4,0,0,1,177.4,229.9Z"/>
+          <path class="cls-138" d="M116.6,297.1l-16.8,9.8a1.1,1.1,0,0,1-1.6-.9V287.3a2.3,2.3,0,0,1,1-1.9l16.9-9.8a1.1,1.1,0,0,1,1.6,1v18.7A2,2,0,0,1,116.6,297.1Z"/>
+          <path class="cls-139" d="M147,279.7l-16.8,9.7a1.1,1.1,0,0,1-1.7-.9V269.8a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.1,1.1,0,0,1,1.7,1v18.7A2.1,2.1,0,0,1,147,279.7Z"/>
+          <path class="cls-140" d="M147,312l-16.8,9.7a1.1,1.1,0,0,1-1.7-.9V302.1a2.1,2.1,0,0,1,1.1-1.9l16.8-9.8a1.1,1.1,0,0,1,1.7,1v18.7A2.1,2.1,0,0,1,147,312Z"/>
+          <path class="cls-141" d="M177.4,262.2,160.5,272a1.1,1.1,0,0,1-1.6-1V252.3a2.1,2.1,0,0,1,1.1-1.9l16.8-9.7a1.1,1.1,0,0,1,1.7.9v18.7A2.4,2.4,0,0,1,177.4,262.2Z"/>
+          <path class="cls-142" d="M104,185l88.2-50.6A5.8,5.8,0,0,0,195,130v-5.6c0-1.5-1.3-2-2.8-1.1L104,173.9a5.8,5.8,0,0,0-2.8,4.4v5.6C101.2,185.4,102.5,185.9,104,185Z"/>
+          <path class="cls-143" d="M104.9,183.6l61.4-35.3a5.7,5.7,0,0,0,2.8-4.4v-3.5c0-1.6-1.3-2.1-2.8-1.2l-61.4,35.2a5.2,5.2,0,0,0-2.8,4.4v3.6C102.1,184.3,102.5,185,104.9,183.6Z"/>
+          <g>
+            <path class="cls-144" d="M113.1,157.7l5.6-3.2v1.3l-7.5,4.3V147.7l1.9-1.1Z"/>
+            <path class="cls-145" d="M119.8,150a6.5,6.5,0,0,1,1.2-3.6,7.6,7.6,0,0,1,3-2.9,3.3,3.3,0,0,1,3-.6,2.5,2.5,0,0,1,1.1,2.4v1.2a7.5,7.5,0,0,1-1.1,3.7,7.4,7.4,0,0,1-3,2.8q-1.9,1.2-3,.6a2.4,2.4,0,0,1-1.2-2.4Zm2,.1a2.1,2.1,0,0,0,.6,1.7c.3.4.9.3,1.6-.1a3.8,3.8,0,0,0,1.6-1.7,6,6,0,0,0,.5-2.4v-1.1a2.6,2.6,0,0,0-.5-1.8c-.4-.4-.9-.3-1.6.1a3.7,3.7,0,0,0-1.6,1.7,4.8,4.8,0,0,0-.6,2.4Z"/>
+            <path class="cls-146" d="M135.4,146.4l-.2-.5a1.3,1.3,0,0,0-.1-.6A4.5,4.5,0,0,1,134,147a5.3,5.3,0,0,1-1.4,1.2,2.8,2.8,0,0,1-2.2.5,1.7,1.7,0,0,1-.7-1.6,4.3,4.3,0,0,1,1-2.7,10.1,10.1,0,0,1,2.9-2.4l1.5-.8v-.9c0-.6-.1-1-.4-1.1s-.7-.1-1.2.2a3.2,3.2,0,0,0-1.2,1.1,2.2,2.2,0,0,0-.4,1.3l-1.9,1.1h-.1a4,4,0,0,1,1-2.4,7.8,7.8,0,0,1,2.7-2.4,3.3,3.3,0,0,1,2.5-.6c.7.2,1,.7,1,1.7v4.3a3.1,3.1,0,0,0,.1,1,2.9,2.9,0,0,0,.2.9Zm-2.4.2a4.1,4.1,0,0,0,1.3-1,7,7,0,0,0,.8-1.4v-1.9l-1.5.8a4.4,4.4,0,0,0-1.4,1.3,2.7,2.7,0,0,0-.5,1.6c0,.4.1.7.3.8A1,1,0,0,0,133,146.6Z"/>
+            <path class="cls-147" d="M139,139.9a9.1,9.1,0,0,1,.9-4.1,5.9,5.9,0,0,1,2.6-2.8,2.7,2.7,0,0,1,1.3-.5,1.5,1.5,0,0,1,1,.3v-5.1l2-1.1V140l-1.7.9-.2-.9a6.5,6.5,0,0,1-1,1.5l-1.4,1.1c-1.1.6-2,.7-2.6.2a3.5,3.5,0,0,1-.9-2.8Zm2-1a3.6,3.6,0,0,0,.5,2.1q.5.5,1.5,0a5.2,5.2,0,0,0,1.1-1,5.4,5.4,0,0,0,.7-1.3v-4.5a1,1,0,0,0-.7-.4,1.5,1.5,0,0,0-1.1.2,3.2,3.2,0,0,0-1.5,1.9,8.2,8.2,0,0,0-.5,2.8Z"/>
+            <path class="cls-148" d="M151.3,125.8l-2,1.1v-1.7l2-1.1Zm0,11.6-2,1.2v-9.3l2-1.1Z"/>
+            <path class="cls-149" d="M155.5,125.8v1.3a9.9,9.9,0,0,1,1.1-1.7,5.8,5.8,0,0,1,1.5-1.3c1-.5,1.7-.7,2.2-.3s.8,1,.8,2.3v5.7l-2,1.2v-5.8a2.2,2.2,0,0,0-.4-1.5c-.3-.2-.7-.2-1.3.2a3.1,3.1,0,0,0-1.1.9,5.7,5.7,0,0,0-.8,1.3V135l-2,1.1v-9.3Z"/>
+            <path class="cls-150" d="M163.1,125.8a8.2,8.2,0,0,1,.9-3.8,7.5,7.5,0,0,1,2.6-2.7,2.7,2.7,0,0,1,1.4-.4,2,2,0,0,1,1.1.3V118l1.7-.9v9.2a5.5,5.5,0,0,1-1.1,3.4,9.9,9.9,0,0,1-3,2.7l-1.4.6-1.4.3.4-1.6a2.2,2.2,0,0,0,1.1-.2l1.3-.5a3.9,3.9,0,0,0,1.6-1.5,3.6,3.6,0,0,0,.5-2.1v-.8a6.4,6.4,0,0,1-1,1.3,4.1,4.1,0,0,1-1.3,1c-1.1.7-2,.8-2.6.4a2.7,2.7,0,0,1-.9-2.4Zm2,0a2.5,2.5,0,0,0,.4,1.7c.4.3.9.2,1.6-.2a3.1,3.1,0,0,0,1.1-.9,7.5,7.5,0,0,0,.7-1.2v-4.6a1.2,1.2,0,0,0-.7-.5l-1.1.3a3.5,3.5,0,0,0-1.5,1.7,5.3,5.3,0,0,0-.5,2.5Z"/>
+            <path class="cls-151" d="M173.6,124.2a1.9,1.9,0,0,1,.9-1.3c.5-.3.9-.1.9.3a1.7,1.7,0,0,1-.9,1.3Q173.6,125,173.6,124.2Z"/>
+            <path class="cls-152" d="M178.4,121.5a1.7,1.7,0,0,1,.8-1.3c.6-.3.9-.1.9.3a1.5,1.5,0,0,1-.9,1.3C178.7,122.1,178.4,121.9,178.4,121.5Z"/>
+            <path class="cls-153" d="M183.1,118.8a1.9,1.9,0,0,1,.9-1.3c.5-.3.9-.1.9.3a1.7,1.7,0,0,1-.9,1.3C183.5,119.4,183.1,119.2,183.1,118.8Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

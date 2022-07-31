@@ -1,0 +1,89 @@
+.g-form-box {
+  background: var(--grey-2);
+  color: var(--grey-12);
+
+  &__header {
+    padding: var(--s-4);
+    font-size: var(--font-size-l);
+    overflow-x: scroll;
+    overflow: overlay; // 防止hover时出现滚动条父容器抖动
+
+    &::-webkit-scrollbar {
+      width: 0;
+      height: 0;
+    }
+    &:hover::-webkit-scrollbar {
+      width: var(--s-2);
+      height: var(--s-2);
+    }
+    .el-steps.g-steps--block {
+      justify-content: unset;
+    }
+
+    &-extra {
+      display: inline-block;
+      margin-left: var(--s-4);
+      font-size: var(--font-size-s);
+
+      .el-dropdown {
+        font-size: var(--font-size-s);
+      }
+    }
+  }
+  &__content {
+    padding: var(--s-4);
+  }
+  &__footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--s-4);
+    background: var(--grey-2);
+    overflow: hidden;
+    &-btns {
+      position: relative;
+    }
+    .g-affix {
+      width: 100%;
+    }
+  }
+  &__tip {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+    display: inline-block;
+    margin-left: var(--s-4);
+    font-size: var(--font-size-s);
+    color: var(--grey-11);
+    white-space: nowrap;
+
+    .icon-info {
+      vertical-align: top;
+    }
+  }
+  &--left {
+    text-align: left;
+    justify-content: flex-start;
+    padding-top: 0;
+    border-top: 0;
+  }
+  .g-affix--fixed {
+    text-align: center;
+    border-top: 1px solid var(--grey-6);
+    background: var(--grey-2);
+    box-sizing: border-box;
+  }
+  .el-form-item:last-child {
+    margin-bottom: 0;
+  }
+}
+.g-form-box__header + .g-form-box__content {
+  border-top: 1px solid var(--grey-6);
+}
+.g-form-box__content + .g-form-box__footer {
+  border-top: 1px solid var(--grey-6);
+}
+.g-form-box__content + .g-form-box__footer.g-form-box--left {
+  border-top: 0;
+}

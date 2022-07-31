@@ -1,0 +1,247 @@
+textarea {
+  font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'PingFang SC',
+    'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif;
+}
+
+.el-select-dropdown,
+.el-cascader__dropdown {
+  &[x-placement^='bottom'] {
+    margin-top: 2px;
+  }
+
+  &[x-placement^='top'] {
+    margin-bottom: 2px;
+  }
+
+  .popper__arrow,
+  .popper__arrow::after {
+    display: none;
+  }
+}
+
+.el-tree--highlight-current .el-tree-node.is-current > .el-tree-node__content {
+  position: relative;
+
+  &::before {
+    content: '';
+    background-color: var(--blue-6);
+    width: 2px;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+
+.el-page-header__left::after {
+  content: '/';
+  position: absolute;
+  width: 1px;
+  height: var(--s-4);
+  top: unset;
+  transform: unset;
+  background-color: unset;
+}
+
+.el-table__fixed-right-patch {
+  top: 0;
+}
+
+.el-button.el-button--text {
+  padding: 0;
+}
+
+.el-radio,
+.el-checkbox {
+  font-size: inherit;
+}
+
+.el-cascader-node__prefix {
+  display: none;
+}
+
+.el-drawer__body {
+  padding: var(--s-4) var(--s-6);
+}
+
+.el-table {
+  .el-input,
+  .el-textarea,
+  .el-input__inner,
+  .el-textarea__inner {
+    font-size: var(--s-3);
+  }
+}
+
+.el-drawer__header {
+  --modal-header-line-color: var(--color-line-4);
+}
+
+.el-popover {
+  .el-button,
+  .el-radio__label,
+  .el-checkbox__label {
+    font-size: var(--s-3);
+  }
+}
+
+.el-submenu {
+  &.is-active .el-submenu__title,
+  & .el-menu-item.is-active {
+    --menu-item-title-text-color-selected: var(--color-text-1);
+  }
+}
+
+// 兼容新版el-table
+.el-table {
+  th.el-table__cell {
+    background: transparent;
+  }
+
+  td.el-table__cell,
+  th.el-table__cell.is-leaf {
+    border-bottom-color: var(--table-thead-border-color);
+  }
+
+  &--border &__cell,
+  &__body-wrapper &--border.is-scrolling-left ~ &__fixed {
+    border-right: 1px solid var(--table-td-border-ver-color);
+  }
+}
+
+/* fade */
+.fade-leave-active,
+.fade-enter-active {
+  transition: all 0.5s;
+}
+
+.fade-enter {
+  opacity: 0;
+  transform: translateX(-10px);
+}
+
+.fade-leave-to {
+  opacity: 0;
+  transform: translateX(10px);
+}
+
+// 扩展功能类 start
+
+.el-form.--text .el-form-item__label {
+  --form-label-text-color: var(--color-text-2);
+}
+
+.el-radio-group.--background {
+  background-color: var(--radio-bg);
+}
+
+.el-table.--border {
+  --table-td-border-ver-color: var(--custom-color-line-5);
+}
+
+.el-button.--icon {
+  padding: 0 12px;
+
+  i,
+  svg {
+    font-size: 16px;
+  }
+}
+
+.el-table.--form .el-form-item {
+  margin-bottom: 0;
+}
+
+// @deprecated
+.el-input.--readonly input {
+  background-color: var(--grey-3);
+  border-color: var(--grey-5);
+}
+
+/** 可展开表格（嵌套子表格） **/
+.el-table.--expand {
+  --table-td-border-ver-color: var(--custom-color-line-5);
+
+  td,
+  th {
+    --table-td-border-ver-color: var(--custom-color-line-5);
+  }
+
+  td:last-child,
+  th:nth-last-of-type(2) {
+    border-right: 0;
+  }
+
+  .el-table__expand-column {
+    border-right: 0;
+  }
+
+  .el-table__body tr.expanded td {
+    border-bottom-color: var(--table-td-border-hor-color);
+  }
+
+  .el-table__expanded-cell[class*='cell'] {
+    padding: 0;
+    padding-left: var(--s-12);
+  }
+
+  .el-table {
+    border-left: 1px solid var(--custom-color-line-5);
+
+    &:before {
+      display: none;
+    }
+
+    tr:last-child td {
+      border-bottom: 0;
+    }
+  }
+}
+
+// @deprecated
+.--input-readonly {
+  .el-input.is-disabled input.el-input__inner,
+  input.el-select__input:read-only {
+    background-color: var(--grey-3);
+    border-color: var(--grey-5);
+    cursor: text;
+    color: var(--input-text-color);
+
+    &:hover {
+      border-color: var(--grey-5);
+    }
+  }
+}
+
+.--disabled {
+  @mixin disabled {
+    color: var(--input-text-color-disabled);
+    border-color: var(--input-border-color-disabled);
+    background: var(--input-bg-disabled);
+    cursor: not-allowed;
+  }
+  .el-input.is-disabled .el-input__inner,
+  .el-textarea .el-textarea__inner:read-only {
+    @include disabled;
+  }
+
+  &.el-input.is-disabled .el-input__inner,
+  &.el-textarea .el-textarea__inner:read-only {
+    @include disabled;
+  }
+
+  &.el-select .el-input.is-disabled .el-input__inner:hover {
+    border-color: var(--input-border-color-disabled);
+    cursor: not-allowed;
+  }
+
+  .el-input.is-disabled .el-select__caret {
+    cursor: not-allowed;
+  }
+}
+
+.el-input.is-disabled .el-select__caret {
+  cursor: text;
+}
+
+// 扩展功能类 end

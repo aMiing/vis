@@ -1,0 +1,29 @@
+.el-message-box.--confirm {
+  width: 350px;
+  border: none;
+  .el-message-box__content {
+    min-height: 90px;
+    padding-top: var(--s-6);
+    padding-bottom: var(--s-6);
+  }
+  .el-message-box__container {
+    display: flex;
+  }
+  .el-message-box__status {
+    position: unset;
+    transform: none;
+    font-size: 20px !important;
+    margin-top: 3px;
+  }
+  .el-message-box__status + .el-message-box__message {
+    padding-left: 8px;
+  }
+  .el-message-box__desc {
+    font-size: var(--font-size-s);
+    color: var(--grey-11);
+  }
+  .el-message-box__btns {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
