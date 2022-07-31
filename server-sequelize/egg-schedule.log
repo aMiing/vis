@@ -1,0 +1,12 @@
+2022-06-28 15:20:48,371 INFO 22283 [egg-schedule]: register schedule /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-28 15:20:48,371 INFO 22283 [egg-schedule]: register schedule /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-28 15:20:48,371 INFO 22283 [egg-schedule]: register schedule /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-06-28 15:20:48,672 INFO 22206 [Timer] /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47351330ms at 2022-06-29 04:30:00.002
+2022-06-28 15:20:48,673 INFO 22206 [Timer] /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31151328ms at 2022-06-29 00:00:00.001
+2022-06-28 15:20:48,673 INFO 22206 [Timer] /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31152327ms at 2022-06-29 00:00:01.000
+2022-06-28 15:35:37,140 INFO 78452 [Timer] /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 46462862ms at 2022-06-29 04:30:00.002
+2022-06-28 15:35:37,140 INFO 78452 [Timer] /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 30262860ms at 2022-06-29 00:00:00.000
+2022-06-28 15:35:37,140 INFO 78452 [Timer] /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 30263860ms at 2022-06-29 00:00:01.000
+2022-06-28 15:35:36,889 INFO 78524 [egg-schedule]: register schedule /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-06-28 15:35:36,889 INFO 78524 [egg-schedule]: register schedule /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-06-28 15:35:36,889 INFO 78524 [egg-schedule]: register schedule /Users/wangchaoming/Documents/github/vis-board/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
